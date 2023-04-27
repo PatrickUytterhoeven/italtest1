@@ -1,0 +1,71 @@
+{
+  "index.qmd": {
+    "index.html": "0a0fcbb0"
+  },
+  "about.qmd": {
+    "about.html": "c1db9dfb"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "3608dc7e"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "a6bf2487"
+  },
+  "blog.qmd": {
+    "blog.html": "f966a39d"
+  },
+  "grammatica.qmd": {
+    "grammatica.html": "f38ee59d"
+  },
+  "post_gramm/verbi1/grammatica1.qmd": {
+    "grammatica1.html": "8411ed3e"
+  },
+  "post_gramm/verbi2/Indicativo_Imperfetto.qmd": {
+    "Indicativo_Imperfetto.html": "569d1c2a"
+  },
+  "formtest.qmd": {
+    "formtest.html": "b7c2abdd"
+  },
+  "post_zinnen/reeks1/reeks1.qmd": {
+    "reeks1.html": "fa1fee94"
+  },
+  "zinnen.qmd": {
+    "zinnen.html": "dd960b99"
+  },
+  "post_gramm/preparticolate/preparticolate1.qmd": {
+    "preparticolate1.html": "b21fbc1f"
+  },
+  "blogitaliaans.github.io/about.qmd": {
+    "about.html": "35e3625c"
+  },
+  "blogitaliaans.github.io/blog.qmd": {
+    "blog.html": "daae11e9"
+  },
+  "blogitaliaans.github.io/grammatica.qmd": {
+    "grammatica.html": "1ab0abcd"
+  },
+  "blogitaliaans.github.io/index.qmd": {
+    "index.html": "b17815a0"
+  },
+  "blogitaliaans.github.io/posts/post-with-code/index.qmd": {
+    "index.html": "ee7c3529"
+  },
+  "blogitaliaans.github.io/posts/welcome/index.qmd": {
+    "index.html": "3415b157"
+  },
+  "blogitaliaans.github.io/post_gramm/preparticolate/preparticolate1.qmd": {
+    "preparticolate1.html": "89f518b4"
+  },
+  "blogitaliaans.github.io/post_gramm/verbi1/grammatica1.qmd": {
+    "grammatica1.html": "26bbbadb"
+  },
+  "blogitaliaans.github.io/post_gramm/verbi2/Indicativo_Imperfetto.qmd": {
+    "Indicativo_Imperfetto.html": "b1e67b66"
+  },
+  "blogitaliaans.github.io/post_zinnen/reeks1/reeks1.qmd": {
+    "reeks1.html": "4aa83390"
+  },
+  "blogitaliaans.github.io/zinnen.qmd": {
+    "zinnen.html": "c8ed03f7"
+  }
+}

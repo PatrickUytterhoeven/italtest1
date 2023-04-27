@@ -1,0 +1,14 @@
+{
+  "hash": "925938455ab19596522b375d4c351bbe",
+  "result": {
+    "markdown": "---\ntitle: \"Zinnen oefenen\"\nlisting:\n  contents: post_zinnen\n  sort: \"date desc\"\n  image-height: 150px\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  fields: [date, title, reading-time, description, categories,image]\npage-layout: full\ntitle-block-banner: FALSE\n---\n\n\n::: {layout-ncol=2}\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](IMG_2146.JPG){width=70%}\n:::\n:::\n\n\nHier vind je een aantal presentaties met zinnen die dienen om het vertalen te oefenen. Op de eerste HTML - slide vind je alle zinnen van de reeks. Kopieer deze naar Google Translate en beluister ze driemaal met eveneens een blik op de vertaling. Luister vervolgens opnieuw driemaal, zonder naar de vertaling van Google Translate te kijken. Vervolgens oefen je deze zinnen op de volgende slides. In de linkertab staat het Nederlands, en het antwoord vind je in de rechtertab ter controle (klik de rechtertab aan om je antwoord te controleren)\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

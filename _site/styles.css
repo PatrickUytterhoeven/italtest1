@@ -1,0 +1,25 @@
+/* css styles */
+<style>
+#TOC {
+  color: #708090;
+  font-family: Calibri;
+  font-size: 16px;
+  border-color: #708090;
+  }
+h1 {
+  color: darkblue;
+  background-color: #F5F5F5;
+  opacity: 0.6;
+  font-family: Calibri;
+  font-size: 20px;
+  }
+body {
+  color: #708090;
+  font-family: Calibri;
+  background-color: #F5F5F5;
+  }
+p {
+  color: #708090;
+  background-color: #F8F8FF;
+  }
+</style>

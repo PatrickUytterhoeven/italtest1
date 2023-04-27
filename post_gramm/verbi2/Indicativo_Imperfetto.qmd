@@ -1,0 +1,103 @@
+---
+title: "Indicativo Imperfetto"
+author: "Patrick Uytterhoeven"
+date: "2023-01-31"
+categories: [werkwoorden]
+image: IMG_2177_kleur2.JPG
+format:
+  revealjs: 
+    theme: beige
+    incremental: true 
+---
+
+## Verbi
+
+::: panel-tabset
+### Parlare
+
+parlavo
+
+parlavi
+
+parlava
+
+parlavamo
+
+parlavate
+
+parlavano
+
+### Ridere
+
+ridevo
+
+ridevi
+
+rideva
+
+ridevamo
+
+ridevate
+
+ridevano
+
+### Sentire
+
+sentivo
+
+sentivi
+
+sentiva
+
+sentivamo
+
+sentivate
+
+sentivano
+
+### Preferire
+
+preferivo
+
+preferivi
+
+preferiva
+
+preferivamo
+
+preferivate
+
+preferivano
+:::
+
+------------------------------------------------------------------------
+
+::: panel-tabset
+### Essere
+
+ero
+
+eri
+
+era
+
+eravamo
+
+eravate
+
+erano
+
+### Avere
+
+avevo
+
+avevi
+
+aveva
+
+avevamo
+
+avevate
+
+avevano
+:::

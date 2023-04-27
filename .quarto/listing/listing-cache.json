@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "blog.qmd": [
+      "posts"
+    ],
+    "grammatica.qmd": [
+      "post_gramm"
+    ],
+    "zinnen.qmd": [
+      "post_zinnen"
+    ]
+  }
+}

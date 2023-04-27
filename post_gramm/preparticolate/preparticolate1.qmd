@@ -1,0 +1,111 @@
+---
+title: "Preposizione articolati"
+author: "Patrick Uytterhoeven"
+date: "2023-04-13"
+categories: [voorzetsels]
+image: IMG_2180.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+# DA
+
+```{r echo=FALSE, out.width='50%'}
+knitr::include_graphics('da.png')
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+library(tidyverse)
+library(ggthemes)
+require(kableExtra)
+library(readxl)
+library(writexl)
+library(kableExtra)
+
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prep1<-read_xlsx("preparticolate.xlsx",1)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prepda<-prep1%>%filter(preposizione=="da")
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(prepda, caption = " ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```
+
+# DI
+
+```{r echo=FALSE, out.width='50%'}
+knitr::include_graphics('di.png')
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prepda<-prep1%>%filter(preposizione=="di")
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(prepda, caption = " ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```
+
+# AL
+
+```{r echo=FALSE, out.width='50%'}
+knitr::include_graphics('al.png')
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prepda<-prep1%>%filter(preposizione=="al")
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(prepda, caption = " ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```
+
+
+# IN
+
+
+```{r echo=FALSE, out.width='50%'}
+knitr::include_graphics('in.png')
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prepda<-prep1%>%filter(preposizione=="in")
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(prepda, caption = " ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```
+
+# SU
+
+
+```{r echo=FALSE, out.width='50%'}
+knitr::include_graphics('su.png')
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+prepda<-prep1%>%filter(preposizione=="su")
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(prepda, caption = " ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```

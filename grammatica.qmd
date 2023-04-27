@@ -1,0 +1,26 @@
+---
+title: "Grammatica"
+listing:
+  contents: post_gramm
+  sort: "date desc"
+  image-height: 150px
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, reading-time, description, categories,image]
+page-layout: full
+title-block-banner: FALSE
+---
+
+::: {layout-ncol=2}
+
+
+
+```{r echo=FALSE, out.width='70%'}
+knitr::include_graphics('IMG_2177.JPG')
+```
+
+Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld. 
+
+:::

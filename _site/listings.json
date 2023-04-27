@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/grammatica.html",
+    "items": [
+      "/post_gramm/preparticolate/preparticolate1.html",
+      "/post_gramm/verbi1/grammatica1.html",
+      "/post_gramm/verbi2/Indicativo_Imperfetto.html"
+    ]
+  },
+  {
+    "listing": "/zinnen.html",
+    "items": [
+      "/post_zinnen/reeks1/reeks1.html"
+    ]
+  }
+]

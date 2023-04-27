@@ -1,0 +1,25 @@
+---
+title: "Italiaans studeren"
+subtitle: "Een kronkelende weg"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: mailto:patrick@akron-advies.com
+---
+
+Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.
+
+Tevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.
+
+Ik ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.
+
+Ik ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!

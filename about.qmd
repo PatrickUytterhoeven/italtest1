@@ -1,0 +1,18 @@
+---
+title: "Grammatica"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: mailto:patrick@akron-advies.com
+---
+
+About this blog

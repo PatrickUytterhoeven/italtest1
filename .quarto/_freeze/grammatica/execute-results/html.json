@@ -1,0 +1,14 @@
+{
+  "hash": "b99899ad1d7927ea34b813d8aa17a2a9",
+  "result": {
+    "markdown": "---\ntitle: \"Grammatica\"\nlisting:\n  contents: post_gramm\n  sort: \"date desc\"\n  image-height: 150px\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  fields: [date, title, reading-time, description, categories,image]\npage-layout: full\ntitle-block-banner: FALSE\n---\n\n\n::: {layout-ncol=2}\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](IMG_2177.JPG){width=70%}\n:::\n:::\n\n\nHier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld. \n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

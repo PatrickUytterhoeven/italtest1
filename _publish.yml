@@ -1,0 +1,6 @@
+- source: project
+  netlify:
+    - id: bf2c4117-d95c-4f9a-8ec7-2269dc1e4663
+      url: 'https://blogitaliaans.netlify.app'
+    - id: 8ef9e8fe-0fac-4520-8deb-9f1f00319234
+      url: 'https://blogitaliaans.netlify.app'

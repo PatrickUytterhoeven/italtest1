@@ -1,0 +1,100 @@
+---
+title: "Reeks 1"
+author: "Patrick Uytterhoeven"
+format:
+  revealjs: 
+    theme: beige
+    incremental: true 
+---
+
+::: panel-tabset
+
+
+### Nederlands
+
+<div class="text">
+<pre>
+<FONT SIZE="5">
+Sorry, ik heb geen tijd.
+Zullen we met hem meegaan?
+Ik wil graag een salade.
+Wij (ma) zijn hier gisteren geweest.
+Wij (vr) zijn hier gisteren geweest.
+Pardon, wat zei hij?
+Dit heb ik niet genomen
+Wanneer heeft u in Italië gewerkt?
+We hebben niets gedaan
+</FONT>
+</pre>
+</div>
+
+
+
+### Italiaans
+
+<div class="text">
+<pre>
+<FONT SIZE="5">
+Mi dispiace, non ho tempo.
+Andiamo con lui?
+Vorrei un'insalata.
+Siamo stati  qui ieri.
+Siamo state qui ieri.
+Scusi, cosa ha detto?
+Non ho preso questo
+Ouando ha lavorato in ltalia?
+Non abbiamo fatto niente
+</FONT>
+</pre>
+</div>
+
+
+
+:::
+
+---
+
+::: panel-tabset
+
+
+### Nederlands
+
+<div class="text">
+<pre>
+<FONT SIZE="5">
+Het spijt me, maar haar pasta is koud.
+Het spijt me, maar we hebben geen wijn, alleen water.
+Het spijt me, maar hij eet geen vlees.
+Het spijt me, maar hij heeft haar nummer niet.
+Excuseer me, heb je meneer X gezien?
+Pardon, waar heeft u de postzegels gekocht?
+Pardon, heeft u nu een afspraak?
+Pardon, waar is het restaurant?
+
+</FONT>
+</pre>
+</div>
+
+
+
+### Italiaans
+
+<div class="text">
+<pre>
+<FONT SIZE="5">
+Mi dispiace, ma la sua pasta è fredda.
+Mi dispiace, ma non abbiamo vino, solo acqua.
+Mi dispiace, ma non mangia carne.
+Mi dispiace, ma non ha il suo numero.
+Scusi, ha visto il Signor X? 
+Scusi, dove ha comprato i francobolli?
+Scusi, ha un appuntamento adesso? 
+Scusi, dov'è il ristorante?
+
+</FONT>
+</pre>
+</div>
+
+
+
+:::
