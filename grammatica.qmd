@@ -13,14 +13,10 @@ page-layout: full
 title-block-banner: FALSE
 ---
 
-::: {layout-ncol=2}
-
-
-
+::: {layout-ncol="2"}
 ```{r echo=FALSE, out.width='70%'}
 knitr::include_graphics('IMG_2177.JPG')
 ```
 
-Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld. 
-
+Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.
 :::

@@ -337,80 +337,73 @@ Patrick Uytterhoeven
 </section>
 <section class="slide level2">
 
-<div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Nederlands</a></li><li><a href="#tabset-1-2">Italiaans</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1">
-<div class="text">
-<pre><font size="5">
-Sorry, ik heb geen tijd.
-Zullen we met hem meegaan?
-Ik wil graag een salade.
-Wij (ma) zijn hier gisteren geweest.
-Wij (vr) zijn hier gisteren geweest.
-Pardon, wat zei hij?
-Dit heb ik niet genomen
-Wanneer heeft u in Italië gewerkt?
-We hebben niets gedaan
-</font>
-</pre>
+<div class="cell">
+
 </div>
+<div class="cell">
+
 </div>
-<div id="tabset-1-2">
-<div class="text">
-<pre><font size="5">
-Mi dispiace, non ho tempo.
-Andiamo con lui?
-Vorrei un'insalata.
-Siamo stati  qui ieri.
-Siamo state qui ieri.
-Scusi, cosa ha detto?
-Non ho preso questo
-Ouando ha lavorato in ltalia?
-Non abbiamo fatto niente
-</font>
-</pre>
+</section>
+<section id="section" class="slide level2">
+<h2>1</h2>
+<div>
+<div style="color: #00000">
+<div style="font-family: Ink Free">
+<div class="cell">
+
 </div>
+<ul>
+<li class="fragment">De afgelopen anderhalf jaar heeft de hoge inflatie de centrale banken geteisterd, de financiële markten achtervolgd en zwaar op de hoofden - en portemonnee - van het publiek gedrukt.</li>
+<li class="fragment">Nell’ultimo anno e mezzo l’alta inflazione ha tormentato le banche centrali, perseguitato i mercati finanziari e pesato pesantemente sulle menti - e sui portafogli - del pubblico.</li>
+</ul>
 </div>
 </div>
 </div>
 </section>
-<section class="slide level2">
+<section id="section-1" class="slide level2">
+<h2>2</h2>
+<div>
+<div style="color: #00000">
+<div style="font-family: Ink Free">
+<div class="cell">
 
-<div class="panel-tabset">
-<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Nederlands</a></li><li><a href="#tabset-2-2">Italiaans</a></li></ul>
-<div class="tab-content">
-<div id="tabset-2-1">
-<div class="text">
-<pre><font size="5">
-Het spijt me, maar haar pasta is koud.
-Het spijt me, maar we hebben geen wijn, alleen water.
-Het spijt me, maar hij eet geen vlees.
-Het spijt me, maar hij heeft haar nummer niet.
-Excuseer me, heb je meneer X gezien?
-Pardon, waar heeft u de postzegels gekocht?
-Pardon, heeft u nu een afspraak?
-Pardon, waar is het restaurant?
-
-</font>
-</pre>
+</div>
+<ul>
+<li class="fragment">Als het geschil in het voordeel van de centrale bankiers wordt opgelost, kan dit onrust op de markt veroorzaken.</li>
+<li class="fragment">Se la controversia si risolvesse a favore dei banchieri centrali, potrebbe causare sconvolgimenti nei mercati.</li>
+</ul>
 </div>
 </div>
-<div id="tabset-2-2">
-<div class="text">
-<pre><font size="5">
-Mi dispiace, ma la sua pasta è fredda.
-Mi dispiace, ma non abbiamo vino, solo acqua.
-Mi dispiace, ma non mangia carne.
-Mi dispiace, ma non ha il suo numero.
-Scusi, ha visto il Signor X? 
-Scusi, dove ha comprato i francobolli?
-Scusi, ha un appuntamento adesso? 
-Scusi, dov'è il ristorante?
-
-</font>
-</pre>
 </div>
+</section>
+<section id="section-2" class="slide level2">
+<h2>3</h2>
+<div>
+<div style="color: #00000">
+<div style="font-family: Ink Free">
+<div class="cell">
+
+</div>
+<ul>
+<li class="fragment">Uiteindelijk heb ik een kamer kunnen boeken in een hotel met uitzicht op het meer. Ik wil er al heel lang heen.</li>
+<li class="fragment">Finalmente,sono riuscita prenotare una stanza in un albergo con vista sul lago. Era già da tanto tempo che desideravo andarci.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="section-3" class="slide level2">
+<h2>4</h2>
+<div>
+<div style="color: #00000">
+<div style="font-family: Ink Free">
+<div class="cell">
+
+</div>
+<ul>
+<li class="fragment">Zullen we morgen langskomen bij Intersport?</li>
+<li class="fragment">Che ne dici se domani facciamo un salto da Intersport?</li>
+</ul>
 </div>
 </div>
 </div>
@@ -630,6 +623,44 @@ Scusi, dov'è il ristorante?
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

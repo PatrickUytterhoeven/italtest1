@@ -1,100 +1,101 @@
 ---
 title: "Reeks 1"
 author: "Patrick Uytterhoeven"
+image: IMG_2146_2.JPG
 format:
   revealjs: 
     theme: beige
     incremental: true 
 ---
 
-::: panel-tabset
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
 
 
-### Nederlands
-
-<div class="text">
-<pre>
-<FONT SIZE="5">
-Sorry, ik heb geen tijd.
-Zullen we met hem meegaan?
-Ik wil graag een salade.
-Wij (ma) zijn hier gisteren geweest.
-Wij (vr) zijn hier gisteren geweest.
-Pardon, wat zei hij?
-Dit heb ik niet genomen
-Wanneer heeft u in Italië gewerkt?
-We hebben niets gedaan
-</FONT>
-</pre>
-</div>
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
 
 
-
-### Italiaans
-
-<div class="text">
-<pre>
-<FONT SIZE="5">
-Mi dispiace, non ho tempo.
-Andiamo con lui?
-Vorrei un'insalata.
-Siamo stati  qui ieri.
-Siamo state qui ieri.
-Scusi, cosa ha detto?
-Non ho preso questo
-Ouando ha lavorato in ltalia?
-Non abbiamo fatto niente
-</FONT>
-</pre>
-</div>
+options(scipen=999)
+```
 
 
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab1<-read_xlsx("datab_frasi.xlsx",1)
+```
+
+##  1
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
 
 :::
+:::
+:::
 
----
-
-::: panel-tabset
-
-
-### Nederlands
-
-<div class="text">
-<pre>
-<FONT SIZE="5">
-Het spijt me, maar haar pasta is koud.
-Het spijt me, maar we hebben geen wijn, alleen water.
-Het spijt me, maar hij eet geen vlees.
-Het spijt me, maar hij heeft haar nummer niet.
-Excuseer me, heb je meneer X gezien?
-Pardon, waar heeft u de postzegels gekocht?
-Pardon, heeft u nu een afspraak?
-Pardon, waar is het restaurant?
-
-</FONT>
-</pre>
-</div>
+## 2
 
 
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
 
-### Italiaans
+```
 
-<div class="text">
-<pre>
-<FONT SIZE="5">
-Mi dispiace, ma la sua pasta è fredda.
-Mi dispiace, ma non abbiamo vino, solo acqua.
-Mi dispiace, ma non mangia carne.
-Mi dispiace, ma non ha il suo numero.
-Scusi, ha visto il Signor X? 
-Scusi, dove ha comprato i francobolli?
-Scusi, ha un appuntamento adesso? 
-Scusi, dov'è il ristorante?
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
 
-</FONT>
-</pre>
-</div>
+:::
+:::
+:::
+
+## 3
 
 
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
 
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+
+## 4
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
 :::
