@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "Italiaans",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "grammatica.html",
@@ -26,20 +26,6 @@
     "title": "Italiaans studeren",
     "section": "",
     "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!\nDaar is een schitterende uitzondering op, de website van andries wijma\nhttps://italiaans.andrieswijma.nl/\nEen echte aanrader. Ik ben zo vrij om de bestanden deels te gebruiken in het blad woordenschat (is momenteel nog niet zichtbaar)"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "post_gramm/preparticolate/preparticolate1.html",
@@ -63,32 +49,46 @@
     "text": "Verbi\n\nParlareRidereSentirePreferire\n\n\nparlavo\nparlavi\nparlava\nparlavamo\nparlavate\nparlavano\n\n\nridevo\nridevi\nrideva\nridevamo\nridevate\nridevano\n\n\nsentivo\nsentivi\nsentiva\nsentivamo\nsentivate\nsentivano\n\n\npreferivo\npreferivi\npreferiva\npreferivamo\npreferivate\npreferivano"
   },
   {
+    "objectID": "post_woorden/numeri1.html",
+    "href": "post_woorden/numeri1.html",
+    "title": "Numeri",
+    "section": "",
+    "text": "getal \n    italiaans \n  \n \n\n  \n    1 \n    uno \n  \n  \n    2 \n    due \n  \n  \n    3 \n    tre \n  \n  \n    4 \n    quattro \n  \n  \n    5 \n    cinque \n  \n  \n    6 \n    sei \n  \n  \n    7 \n    sette \n  \n  \n    8 \n    otto \n  \n  \n    9 \n    nove \n  \n  \n    10 \n    dieci \n  \n  \n    11 \n    undici \n  \n  \n    12 \n    dodici \n  \n  \n    13 \n    tredici \n  \n  \n    14 \n    quattordici \n  \n  \n    15 \n    quindici \n  \n  \n    16 \n    sedici \n  \n  \n    17 \n    diciassette \n  \n  \n    18 \n    diciotto \n  \n  \n    19 \n    diciannove \n  \n  \n    20 \n    venti \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n  \n \n\n  \n    10 \n    dieci \n  \n  \n    20 \n    venti \n  \n  \n    30 \n    trenta \n  \n  \n    40 \n    quaranta \n  \n  \n    50 \n    cinquanta \n  \n  \n    60 \n    sessanta \n  \n  \n    70 \n    settanta \n  \n  \n    80 \n    ottanta \n  \n  \n    90 \n    novanta \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n    mv \n  \n \n\n  \n    100 \n    cento \n    cento \n  \n  \n    1000 \n    mille \n    milla \n  \n  \n    1000000 \n    milione \n    milioni \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n    mv \n  \n \n\n  \n    1e \n    primo \n    NA \n  \n  \n    2e \n    secondo \n    NA \n  \n  \n    3e \n    terzo \n    NA \n  \n  \n    4e \n    quarto \n    NA \n  \n  \n    5e \n    quinto \n    NA \n  \n  \n    6e \n    sesto \n    NA \n  \n  \n    7e \n    settimo \n    NA \n  \n  \n    8e \n    ottavo \n    NA \n  \n  \n    9e \n    nono \n    NA \n  \n  \n    10e \n    decimo \n    NA \n  \n  \n    11e \n    undicesimo \n    NA \n  \n  \n    12e \n    dodicesimo \n    NA \n  \n  \n    13e \n    tredicesimo \n    NA"
+  },
+  {
     "objectID": "post_zinnen/reeks1/reeks1.html#section",
     "href": "post_zinnen/reeks1/reeks1.html#section",
     "title": "Reeks 1",
     "section": "1",
-    "text": "1\n\n\n\n\n\n\n\nDe afgelopen anderhalf jaar heeft de hoge inflatie de centrale banken geteisterd, de financiële markten achtervolgd en zwaar op de hoofden - en portemonnee - van het publiek gedrukt.\nNell’ultimo anno e mezzo l’alta inflazione ha tormentato le banche centrali, perseguitato i mercati finanziari e pesato pesantemente sulle menti - e sui portafogli - del pubblico."
+    "text": "1\n\n\n\n\n\n\n\nAls het geschil in het voordeel van de centrale bankiers wordt opgelost, kan dit onrust op de markt veroorzaken.\nSe la controversia si risolvesse a favore dei banchieri centrali, potrebbe causare sconvolgimenti nei mercati."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-1",
     "href": "post_zinnen/reeks1/reeks1.html#section-1",
     "title": "Reeks 1",
     "section": "2",
-    "text": "2\n\n\n\n\n\n\n\nAls het geschil in het voordeel van de centrale bankiers wordt opgelost, kan dit onrust op de markt veroorzaken.\nSe la controversia si risolvesse a favore dei banchieri centrali, potrebbe causare sconvolgimenti nei mercati."
+    "text": "2\n\n\n\n\n\n\n\nNou ja, op deze manier hoeven we tenminste niet meer te overleggen of we naar het strand gaan of naar de bergen. Maar vertel me, hoe is het hotel?\nBene,almeno così non dobbiamo più discutere se andare al mare o in montagna. Ma dimmi, com’è l’albergo?"
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-2",
     "href": "post_zinnen/reeks1/reeks1.html#section-2",
     "title": "Reeks 1",
     "section": "3",
-    "text": "3\n\n\n\n\n\n\n\nUiteindelijk heb ik een kamer kunnen boeken in een hotel met uitzicht op het meer. Ik wil er al heel lang heen.\nFinalmente,sono riuscita prenotare una stanza in un albergo con vista sul lago. Era già da tanto tempo che desideravo andarci."
+    "text": "3\n\n\n\n\n\n\n\nIn hemelsnaam liever dan in een agrotoerisme, maar niet op een camping met de gebruikelijke sociale momenten.\nPer carità, piuttosto allora in un agriturismo, ma non in un campeggio con i soliti momenti sociali."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-3",
     "href": "post_zinnen/reeks1/reeks1.html#section-3",
     "title": "Reeks 1",
     "section": "4",
-    "text": "4\n\n\n\n\n\n\n\nZullen we morgen langskomen bij Intersport?\nChe ne dici se domani facciamo un salto da Intersport?"
+    "text": "4\n\n\n\n\n\n\n\nAls het geschil in het voordeel van de centrale bankiers wordt opgelost, kan dit onrust op de markt veroorzaken.\nSe la controversia si risolvesse a favore dei banchieri centrali, potrebbe causare sconvolgimenti nei mercati."
+  },
+  {
+    "objectID": "woorden.html",
+    "href": "woorden.html",
+    "title": "Woordenschat",
+    "section": "",
+    "text": "Deze pagina bevat thematisch gerichte woordenlijsten. Momenteel ben ik aan het experimenteren met inhoud en vorm.\nAlleszins is het mijn bedoeling om sommige posts dynamisch te maken en de inhoud elke week automatisch te laten veranderen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumeri\n\n\n0 min\n\n\n\ngetallen\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "zinnen.html",

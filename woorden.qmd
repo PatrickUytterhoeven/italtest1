@@ -1,0 +1,28 @@
+---
+title: "Woordenschat"
+listing:
+  contents: post_woorden
+  sort: "date desc"
+  image-height: 150px
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, reading-time, description, categories,image]
+page-layout: full
+title-block-banner: FALSE
+---
+:::: {.columns}
+
+::: {.column width="50%"}
+```{r echo=FALSE, out.width='70%'}
+knitr::include_graphics('IMG_2231.JPG')
+```
+:::
+
+::: {.column width="50%"}
+Deze pagina bevat thematisch gerichte woordenlijsten. Momenteel ben ik aan het experimenteren met inhoud en vorm.
+
+Alleszins is het mijn bedoeling om sommige posts dynamisch te maken en de inhoud elke week automatisch te laten veranderen.
+:::
+::::

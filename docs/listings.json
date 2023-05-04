@@ -1,10 +1,7 @@
 [
   {
     "listing": "/blog.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/grammatica.html",
@@ -12,6 +9,12 @@
       "/post_gramm/preparticolate/preparticolate1.html",
       "/post_gramm/verbi1/grammatica1.html",
       "/post_gramm/verbi2/Indicativo_Imperfetto.html"
+    ]
+  },
+  {
+    "listing": "/woorden.html",
+    "items": [
+      "/post_woorden/numeri1.html"
     ]
   },
   {
