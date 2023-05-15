@@ -6,6 +6,7 @@
   {
     "listing": "/grammatica.html",
     "items": [
+      "/post_gramm/verbi3/imperfetto.html",
       "/post_gramm/preparticolate/preparticolate1.html",
       "/post_gramm/verbi1/grammatica1.html",
       "/post_gramm/verbi2/Indicativo_Imperfetto.html"
@@ -14,7 +15,8 @@
   {
     "listing": "/woorden.html",
     "items": [
-      "/post_woorden/numeri1.html"
+      "/post_woorden/ore/ore1.html",
+      "/post_woorden/numeri/numeri1.html"
     ]
   },
   {

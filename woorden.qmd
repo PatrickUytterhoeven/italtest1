@@ -24,5 +24,7 @@ knitr::include_graphics('IMG_2231.JPG')
 Deze pagina bevat thematisch gerichte woordenlijsten. Momenteel ben ik aan het experimenteren met inhoud en vorm.
 
 Alleszins is het mijn bedoeling om sommige posts dynamisch te maken en de inhoud elke week automatisch te laten veranderen.
+
+
 :::
 ::::

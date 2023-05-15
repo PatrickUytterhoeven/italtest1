@@ -1,7 +1,7 @@
 {
-  "hash": "8c08a24bf916fa8cb79513fb0005c934",
+  "hash": "9d1460f2e815ad1d2f062caf2bb0e803",
   "result": {
-    "markdown": "---\ntitle: \"Zinnen oefenen\"\nlisting:\n  contents: post_zinnen\n  sort: \"date desc\"\n  image-height: 150px\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  fields: [date, title, reading-time, description, categories,image]\npage-layout: full\ntitle-block-banner: FALSE\n---\n\n\n:::: {.columns}\n\n::: {.column width=\"50%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n![](IMG_2146.JPG){width=70%}\n:::\n:::\n\n:::\n\n::: {.column width=\"50%\"}\nDeze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\n\nJe kan de presentatie downloaden.\n\nWekelijks wordt de inhoud aangepast met andere zinnen. \n\n:::\n::::",
+    "markdown": "---\ntitle: \"Zinnen oefenen\"\nlisting:\n  contents: post_zinnen\n  sort: \"date desc\"\n  image-height: 150px\n  type: grid\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  fields: [date, title, reading-time, description, categories,image]\npage-layout: full\ntitle-block-banner: FALSE\n---\n\n\n:::: {.columns}\n\n::: {.column width=\"50%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n![](IMG_2146.JPG){width=70%}\n:::\n:::\n\n:::\n\n::: {.column width=\"50%\"}\nDeze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\n\nJe kan de presentatie downloaden.\n\nWekelijks wordt de inhoud aangepast met andere zinnen. \n\n\n\n:::\n::::",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

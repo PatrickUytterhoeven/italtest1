@@ -1,0 +1,20 @@
+---
+title: "Ore"
+author: "Patrick Uytterhoeven"
+date: "2023-05-12"
+categories: [tijdsaanduiding]
+image: IMG_2214.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+# ore
+
+```{r echo=FALSE, out.width='80%'}
+knitr::include_graphics('ore1.png')
+```

@@ -1,0 +1,249 @@
+---
+title: "Indicativo Imperfetto"
+author: "Patrick Uytterhoeven"
+date: "2023-05-12"
+categories: [werkwoorden]
+image: IMG_2177_kleur6.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+verbi1<-read_xlsx("prepwerkwoorden.xlsx",2)
+qq<-dim(verbi1)[2]
+```
+
+# Imperfetto
+
+## a - vervoeging
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=28
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## e - vervoeging
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=25
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## i - vervoeging
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=26
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=27
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## essere , avere
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=23
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=22
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## bere
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=11
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## dire
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=13
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## fare
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+pos=10
+sel<-verbi1[1,pos]
+werkw<-verbi1[20:25,pos]
+dat1<-data.frame(verbi1$vertaling[20:25],verbi1$vnw[20:25],werkw)
+deel1<-sel
+deel2<-dat1
+colnames(deel2)<-c("modus","vnw","vervoeging")
+rownames(deel2)<-NULL
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(deel2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
