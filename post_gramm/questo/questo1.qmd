@@ -1,0 +1,109 @@
+---
+title: "Questo - Questa"
+author: "Patrick Uytterhoeven"
+date: "2023-05-12"
+categories: [pronome]
+image: IMG_2216.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+## Questo e questa
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r echo=FALSE, out.width='80%'}
+knitr::include_graphics('QQ.png')
+```
+
+## Esempi 1
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab<-read_xlsx("QQ1.xlsx",2)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab1<-datab%>%filter(woord=="questo")
+datab1<-datab1[,1:2]
+choice1<-data.frame(datab1[sample(nrow(datab1), 5), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(choice1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esempi 2
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab<-read_xlsx("QQ1.xlsx",2)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab1<-datab%>%filter(woord=="questa")
+datab1<-datab1[,1:2]
+choice1<-data.frame(datab1[sample(nrow(datab1), 5), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(choice1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esempi 3
+
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab<-read_xlsx("QQ1.xlsx",2)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab1<-datab%>%filter(woord=="quest'")
+datab1<-datab1[,1:2]
+choice1<-data.frame(datab1[sample(nrow(datab1), 5), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(choice1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esempi 4
+
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab<-read_xlsx("QQ1.xlsx",2)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+datab1<-datab%>%filter(woord=="queste")
+datab1<-datab1[,1:2]
+choice1<-data.frame(datab1[sample(nrow(datab1), 5), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(choice1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
