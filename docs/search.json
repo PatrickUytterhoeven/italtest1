@@ -18,7 +18,7 @@
     "href": "grammatica.html",
     "title": "Grammatica",
     "section": "",
-    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n1 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreposizione articolati\n\n\n0 min\n\n\n\nvoorzetsels\n\n\n\n\n\n\n\nApr 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n0 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl plurale dei sostantivi, aggettivi, articoli\n\n\n0 min\n\n\n\nmeervoud\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuesto - Questa\n\n\n0 min\n\n\n\npronome\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n1 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreposizione articolati\n\n\n0 min\n\n\n\nvoorzetsels\n\n\n\n\n\n\n\nApr 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n0 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -26,6 +26,34 @@
     "title": "Italiaans studeren",
     "section": "",
     "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!\nDaar is een schitterende uitzondering op, de website van andries wijma\nhttps://italiaans.andrieswijma.nl/\nEen echte aanrader. Ik ben zo vrij om de bestanden deels te gebruiken in het blad woordenschat (is momenteel nog niet zichtbaar)"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html",
+    "href": "post_gramm/plurale/grammatica2.html",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "",
+    "text": "vocale \n    singolare \n    plurale \n  \n \n\n  \n    o -> i \n    bambino \n    bambini \n  \n  \n    a -> e \n    bambina \n    bambine \n  \n  \n    e -> i \n    padre \n    padri"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#il-plurale-dei-aggettivi",
+    "href": "post_gramm/plurale/grammatica2.html#il-plurale-dei-aggettivi",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Il plurale dei aggettivi",
+    "text": "Il plurale dei aggettivi\n\n\n\n\n\n\n\n \n  \n    lettere \n    singolare \n    plurale \n  \n \n\n  \n    o -> i \n    piccolo \n    piccoli \n  \n  \n    a -> e \n    piccola \n    piccole \n  \n  \n    e -> i \n    grande \n    grandi \n  \n  \n    g + h \n    lungo \n    lunghi \n  \n  \n    g + h \n    lunga \n    lunghe"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#esercizio-2",
+    "href": "post_gramm/plurale/grammatica2.html#esercizio-2",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Esercizio 2",
+    "text": "Esercizio 2\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    Il mio libro \n    i miei libri \n  \n  \n    la tua casa \n    le tue case \n  \n  \n    il suo professore \n    i suoi professori \n  \n  \n    il vostro amico \n    i vostri amici \n  \n  \n    la nostra macchina \n    le nostre macchine \n  \n  \n    la loro cugina \n    le loro cugine \n  \n  \n    la mia bambina \n    le lie bambine \n  \n  \n    il tuo hobby \n    i tuoi hobby \n  \n  \n    la sua bicicletta \n    le sue biciclette \n  \n  \n    la vostra vacanza \n    le vostre vacanze \n  \n  \n    il nostro gatto \n    i nostri gatti \n  \n  \n    la loro sorella \n    le loro sorelle"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#articoli",
+    "href": "post_gramm/plurale/grammatica2.html#articoli",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Articoli",
+    "text": "Articoli"
   },
   {
     "objectID": "post_gramm/preparticolate/preparticolate1.html",
@@ -116,28 +144,28 @@
     "href": "post_zinnen/reeks1/reeks1.html#section",
     "title": "Reeks 1",
     "section": "1",
-    "text": "1\n\n\n\n\n\n\n\nDit is het moment van de bouw van de kerken, gelegen langs een pad aan de voet van de heuvels en in het wegennet van de Val di Chio.\nE’ questo il momento della costruzione delle pievi, collocate lungo un percorso ai piedi delle colline e nel tracciato viario della Val di Chio."
+    "text": "1\n\n\n\n\n\n\n\nZullen we morgen langskomen bij Intersport?\nChe ne dici se domani facciamo un salto da Intersport?"
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-1",
     "href": "post_zinnen/reeks1/reeks1.html#section-1",
     "title": "Reeks 1",
     "section": "2",
-    "text": "2\n\n\n\n\n\n\n\nUiteindelijk heb ik een kamer kunnen boeken in een hotel met uitzicht op het meer. Ik wil er al heel lang heen.\nFinalmente,sono riuscita prenotare una stanza in un albergo con vista sul lago. Era già da tanto tempo che desideravo andarci."
+    "text": "2\n\n\n\n\n\n\n\nOnder het rijk van Augustus brak een periode van achteruitgang aan voor de Valdichiana, de bevolking, als gevolg van het overstromen van de vallei, verhuisde naar veiligere en gezondere heuvelachtige gebieden.\nSotto l’impero di Augusto inizia per la Valdichiana un periodo di decadenza, le popolazioni, a causa dell’impaludamento della valle, si spostano su zone collinari più sicure e salubri."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-2",
     "href": "post_zinnen/reeks1/reeks1.html#section-2",
     "title": "Reeks 1",
     "section": "3",
-    "text": "3\n\n\n\n\n\n\n\nVorig jaar rond deze tijd waren centrale bankiers ’s nachts wakker omdat ze bang waren dat de stijgende verwachtingen van het publiek van hoge inflatie zichzelf zouden waarmaken.\nQuesta volta l’anno scorso i banchieri centrali erano svegli di notte preoccupati che le crescenti aspettative del pubblico di alta inflazione si sarebbero auto-avverate."
+    "text": "3\n\n\n\n\n\n\n\nOnder het rijk van Augustus brak een periode van achteruitgang aan voor de Valdichiana, de bevolking, als gevolg van het overstromen van de vallei, verhuisde naar veiligere en gezondere heuvelachtige gebieden.\nSotto l’impero di Augusto inizia per la Valdichiana un periodo di decadenza, le popolazioni, a causa dell’impaludamento della valle, si spostano su zone collinari più sicure e salubri."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-3",
     "href": "post_zinnen/reeks1/reeks1.html#section-3",
     "title": "Reeks 1",
     "section": "4",
-    "text": "4\n\n\n\n\n\n\n\nVorig jaar rond deze tijd waren centrale bankiers ’s nachts wakker omdat ze bang waren dat de stijgende verwachtingen van het publiek van hoge inflatie zichzelf zouden waarmaken.\nQuesta volta l’anno scorso i banchieri centrali erano svegli di notte preoccupati che le crescenti aspettative del pubblico di alta inflazione si sarebbero auto-avverate."
+    "text": "4\n\n\n\n\n\n\n\nIk ben het met je eens!\nSono d’accordo con te!"
   },
   {
     "objectID": "woorden.html",
@@ -152,5 +180,68 @@
     "title": "Zinnen oefenen",
     "section": "",
     "text": "Deze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\nJe kan de presentatie downloaden.\nWekelijks wordt de inhoud aangepast met andere zinnen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReeks 1\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#esercizio-1",
+    "href": "post_gramm/plurale/grammatica2.html#esercizio-1",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Esercizio 1",
+    "text": "Esercizio 1\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    panino piccolo \n    panini piccoli \n  \n  \n    salame grande \n    salami grandi \n  \n  \n    pizza piccola \n    pizze piccole \n  \n  \n    madre francese \n    madri francesi \n  \n  \n    panino grande \n    panini grandi \n  \n  \n    salame piccolo \n    salami piccoli \n  \n  \n    pizza grande \n    pizze grandi \n  \n  \n    madre bella \n    madri belle \n  \n  \n    grande magazzino \n    grandi magazzini \n  \n  \n    piccola patata \n    patate piccole"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#esercizio-3",
+    "href": "post_gramm/plurale/grammatica2.html#esercizio-3",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Esercizio 3",
+    "text": "Esercizio 3\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    La casa è grande \n    Le case sono grandi \n  \n  \n    Lo studente è straniero \n    Gli studenti sono stranieri \n  \n  \n    Il bambino non è piccolo \n    I bambini non sono piccoli \n  \n  \n    Il tavolo è grande \n    I tavoli sono grandi \n  \n  \n    La fiera è moderna \n    Le fiere sono moderne \n  \n  \n    La zia è gentile \n    Le zie sono gentili \n  \n  \n    La signora è sposato \n    Le signore sono sposate \n  \n  \n    La madre è tradizionale \n    Le madri sono traditionali \n  \n  \n    Il posto non è libero \n    I posti non sono liberi \n  \n  \n    La bambina è olandese \n    Le bambine sono olandesi"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#esercizio-4",
+    "href": "post_gramm/plurale/grammatica2.html#esercizio-4",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "Esercizio 4",
+    "text": "Esercizio 4\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    il biscotto \n    i biscotti \n  \n  \n    il panino \n    i panini \n  \n  \n    il piatto \n    i piatti \n  \n  \n    l’amico \n    gli amici \n  \n  \n    il gatto \n    i gatti \n  \n  \n    l’albero \n    gli alberi \n  \n  \n    il monumento \n    i monumenti \n  \n  \n    il succo \n    i succhi \n  \n  \n    il vino \n    i vini"
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi",
+    "href": "post_gramm/questo/questo1.html#esempi",
+    "title": "Questo - Questa",
+    "section": "Esempi",
+    "text": "Esempi\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    Abbiamo rischiato tutto per fare questo lavoro. \n    We riskeerden alles om dit werk te doen. \n  \n  \n    Accettare questo lavoro significa rifiutare tutte le altre possibilità. \n    Deze baan accepteren betekent alle andere mogelijkheden afwijzen. \n  \n  \n    Certo che posso fare questo lavoro. \n    Natuurlijk kan ik dit werk doen. \n  \n  \n    Ho rischiato per farti ottenere questo lavoro. \n    Ik heb het risico genomen om je deze baan te bezorgen. \n  \n  \n    Metà di questo lavoro è fortuna. \n    De helft van dit werk is geluk. \n  \n  \n    Mia moglie vuole che lasci questo lavoro. \n    Mijn vrouw wil dat ik deze baan opzeg. \n  \n  \n    Quando cominciai questo lavoro, pensavo sarebbe stato emozionante. \n    Toen ik aan deze baan begon, dacht ik dat het spannend zou zijn. \n  \n  \n    Senza questo lavoro, l'umanità sarà inerme. \n    Zonder dit werk zal de mensheid hulpeloos zijn. \n  \n  \n    Detto questo, riconosco che questi lavori dovrebbero essere più accessibili. \n    Dat gezegd hebbende, erken ik dat deze banen toegankelijker moeten zijn."
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi1",
+    "href": "post_gramm/questo/questo1.html#esempi1",
+    "title": "Questo - Questa",
+    "section": "Esempi1",
+    "text": "Esempi1\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    Certo che posso fare questo lavoro. \n    Natuurlijk kan ik dit werk doen. \n  \n  \n    Senza questo lavoro, l'umanità sarà inerme. \n    Zonder dit werk zal de mensheid hulpeloos zijn. \n  \n  \n    Accettare questo lavoro significa rifiutare tutte le altre possibilità. \n    Deze baan accepteren betekent alle andere mogelijkheden afwijzen. \n  \n  \n    Metà di questo lavoro è fortuna. \n    De helft van dit werk is geluk. \n  \n  \n    Ho rischiato per farti ottenere questo lavoro. \n    Ik heb het risico genomen om je deze baan te bezorgen."
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi-1",
+    "href": "post_gramm/questo/questo1.html#esempi-1",
+    "title": "Questo - Questa",
+    "section": "Esempi 1",
+    "text": "Esempi 1\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    Quando cominciai questo lavoro, pensavo sarebbe stato emozionante. \n    Toen ik aan deze baan begon, dacht ik dat het spannend zou zijn. \n  \n  \n    Abbiamo rischiato tutto per fare questo lavoro. \n    We riskeerden alles om dit werk te doen. \n  \n  \n    Detto questo, riconosco che questi lavori dovrebbero essere più accessibili. \n    Dat gezegd hebbende, erken ik dat deze banen toegankelijker moeten zijn. \n  \n  \n    Ho rischiato per farti ottenere questo lavoro. \n    Ik heb het risico genomen om je deze baan te bezorgen. \n  \n  \n    Senza questo lavoro, l'umanità sarà inerme. \n    Zonder dit werk zal de mensheid hulpeloos zijn."
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi-2",
+    "href": "post_gramm/questo/questo1.html#esempi-2",
+    "title": "Questo - Questa",
+    "section": "Esempi 2",
+    "text": "Esempi 2\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    So che vuole comprare questa casa. \n    Ik weet dat je dit huis wilt kopen. \n  \n  \n    Abbiamo rintracciato la telefonata, veniva da questa casa. \n    We hebben het telefoontje getraceerd, het kwam uit dit huis. \n  \n  \n    Ho costruire questa casa per mia figlia. \n    Ik bouw dit huis voor mijn dochter. \n  \n  \n    Non potrete lasciare questa casa senza essere osservato. \n    U kunt dit huis niet verlaten zonder geobserveerd te worden. \n  \n  \n    Non comprerò questa casa con te. \n    Ik koop dit huis niet met jou."
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi-3",
+    "href": "post_gramm/questo/questo1.html#esempi-3",
+    "title": "Questo - Questa",
+    "section": "Esempi 3",
+    "text": "Esempi 3\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    Non avrei dovuto metterti quest'idea in testa. \n    Ik had dat idee niet in je hoofd moeten steken. \n  \n  \n    Einstein era legato a quest'idea. \n    Einstein was gehecht aan dit idee. \n  \n  \n    Vediamo se possiamo vendere quest'idea anche a tutti gli altri. \n    Laten we eens kijken of we dit idee ook aan iedereen kunnen verkopen. \n  \n  \n    Puoi levarti pure quest'idea dalla testa. \n    Dat idee kun je ook uit je hoofd krijgen. \n  \n  \n    Mentre accade tutto ciò, stiamo diffondendo quest'idea nel mondo. \n    Terwijl dit allemaal gebeurt, verspreiden we dit idee over de hele wereld."
+  },
+  {
+    "objectID": "post_gramm/questo/questo1.html#esempi-4",
+    "href": "post_gramm/questo/questo1.html#esempi-4",
+    "title": "Questo - Questa",
+    "section": "Esempi 4",
+    "text": "Esempi 4\n\n\n\n\n\n\n\n\n\n\n \n  \n    italiaans \n    nederlands \n  \n \n\n  \n    Gli architetti stanno pensando a queste idee da molto tempo. \n    Architecten hebben lang over deze ideeën nagedacht. \n  \n  \n    Se siete interessati a queste idee, visitate questo sito. \n    Als u geïnteresseerd bent in deze ideeën, bezoek dan deze site. \n  \n  \n    Sono interessata a queste idee di ripetizione. \n    Ik ben geïnteresseerd in deze ideeën van herhaling. \n  \n  \n    Dobbiamo liberare noi stessi da alcune di queste idee. \n    We moeten ons van sommige van deze ideeën bevrijden. \n  \n  \n    Come possiamo aiutarti a diffondere queste idee? \n    Hoe kunnen we u helpen deze ideeën te verspreiden?"
   }
 ]

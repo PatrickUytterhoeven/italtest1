@@ -1,0 +1,112 @@
+---
+title: "Il plurale dei sostantivi, aggettivi, articoli"
+author: "Patrick Uytterhoeven"
+date: "2023-05-17"
+categories: [meervoud]
+image: IMG_2216.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+## Il plurale dei sostantivi
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data1<-read_xlsx("grammatica2.xlsx",1)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Il plurale dei aggettivi
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data2<-read_xlsx("grammatica2.xlsx",2)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esercizio 1
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data3<-read_xlsx("grammatica2.xlsx",3)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data3, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esercizio 2
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data3<-read_xlsx("grammatica2.xlsx",4)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data3, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esercizio 3
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data3<-read_xlsx("grammatica2.xlsx",5)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data3, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Esercizio 4
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data3<-read_xlsx("grammatica2.xlsx",6)
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data3, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+## Articoli
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics("lidwoorden1.png")
+```
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics("lidwoorden2.png")
+```
