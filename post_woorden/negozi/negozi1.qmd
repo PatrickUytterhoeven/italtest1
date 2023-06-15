@@ -1,0 +1,88 @@
+---
+title: "Negozi"
+author: "Patrick Uytterhoeven"
+date: "2023-06-15"
+categories: [winkelen]
+image: IMG_2918lomo.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+# Winkelen
+
+In dit hoofdstuk worden woorden, zinnen en uitdrukkingen bij elkaar gebracht die verband houden met winkelen
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data1<-read_xlsx("negozi.xlsx",1)
+```
+
+# Werkwoorden
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data1a<-data1%>%filter(categorie=="werkwoorden")%>%select(italiaans,nederlands)
+data1a<-data1a[sample(nrow(data1a)),]
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data1a, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+# Kleuren
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data2a<-data1%>%filter(categorie=="kleur")%>%select(italiaans,nederlands)
+data2a<-data2a[sample(nrow(data2a)),]
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data2a, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+# Kleding
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data2a<-data1%>%filter(categorie=="kleding")%>%select(italiaans,nederlands)
+data2a<-data2a[sample(nrow(data2a)),]
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data2a, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+# Diverse
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+target1<-c("algemeen","divers")
+data2a<-data1%>%filter(categorie %in% target1)%>%select(italiaans,nederlands)
+data2a<-data2a[sample(nrow(data2a)),]
+
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data2a, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```

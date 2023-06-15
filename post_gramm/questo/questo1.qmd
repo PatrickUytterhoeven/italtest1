@@ -3,7 +3,7 @@ title: "Questo - Questa"
 author: "Patrick Uytterhoeven"
 date: "2023-05-12"
 categories: [pronome]
-image: IMG_2216.JPG
+image: IMG_2216_lomo.JPG
 format:
   html:
     toc: true
@@ -54,7 +54,6 @@ kable(choice1, booktabs=T) %>%
 
 ## Esempi 2
 
-
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 datab<-read_xlsx("QQ1.xlsx",2)
 ```
@@ -72,8 +71,6 @@ kable(choice1, booktabs=T) %>%
 
 ## Esempi 3
 
-
-
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 datab<-read_xlsx("QQ1.xlsx",2)
 ```
@@ -90,8 +87,6 @@ kable(choice1, booktabs=T) %>%
 ```
 
 ## Esempi 4
-
-
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 datab<-read_xlsx("QQ1.xlsx",2)
