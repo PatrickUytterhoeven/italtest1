@@ -13,8 +13,7 @@ page-layout: full
 title-block-banner: FALSE
 ---
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="50%"}
 ```{r echo=FALSE, out.width='70%'}
 knitr::include_graphics('IMG_2146.JPG')
@@ -26,9 +25,6 @@ Deze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren ve
 
 Je kan de presentatie downloaden.
 
-Wekelijks wordt de inhoud aangepast met andere zinnen. 
-
-
-
+Wekelijks wordt de inhoud aangepast met andere zinnen.
 :::
-::::
+:::

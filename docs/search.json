@@ -25,49 +25,56 @@
     "href": "index.html",
     "title": "Italiaans studeren",
     "section": "",
-    "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!\nDaar is een schitterende uitzondering op, de website van andries wijma\nhttps://italiaans.andrieswijma.nl/\nEen echte aanrader. Ik ben zo vrij om de bestanden deels te gebruiken in het blad woordenschat (is momenteel nog niet zichtbaar)"
+    "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!\nDaar is een schitterende uitzondering op, de website van andries wijma\nhttps://italiaans.andrieswijma.nl/\nEen echte aanrader. Ik ben zo vrij om de bestanden deels te gebruiken in het blad woordenschat."
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html",
     "href": "post_gramm/plurale/grammatica2.html",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "",
-    "text": "vocale \n    singolare \n    plurale \n  \n \n\n  \n    o -> i \n    bambino \n    bambini \n  \n  \n    a -> e \n    bambina \n    bambine \n  \n  \n    e -> i \n    padre \n    padri"
+    "text": "vocale\nsingolare\nplurale\n\n\n\n\no -&gt; i\nbambino\nbambini\n\n\na -&gt; e\nbambina\nbambine\n\n\ne -&gt; i\npadre\npadri"
+  },
+  {
+    "objectID": "post_gramm/plurale/grammatica2.html#il-plurale-dei-sostantivi",
+    "href": "post_gramm/plurale/grammatica2.html#il-plurale-dei-sostantivi",
+    "title": "Il plurale dei sostantivi, aggettivi, articoli",
+    "section": "",
+    "text": "vocale\nsingolare\nplurale\n\n\n\n\no -&gt; i\nbambino\nbambini\n\n\na -&gt; e\nbambina\nbambine\n\n\ne -&gt; i\npadre\npadri"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#il-plurale-dei-aggettivi",
     "href": "post_gramm/plurale/grammatica2.html#il-plurale-dei-aggettivi",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "Il plurale dei aggettivi",
-    "text": "Il plurale dei aggettivi\n\n\n\n\n\n\n\n \n  \n    lettere \n    singolare \n    plurale \n  \n \n\n  \n    o -> i \n    piccolo \n    piccoli \n  \n  \n    a -> e \n    piccola \n    piccole \n  \n  \n    e -> i \n    grande \n    grandi \n  \n  \n    g + h \n    lungo \n    lunghi \n  \n  \n    g + h \n    lunga \n    lunghe"
+    "text": "Il plurale dei aggettivi\n\n\n\n\n\nlettere\nsingolare\nplurale\n\n\n\n\no -&gt; i\npiccolo\npiccoli\n\n\na -&gt; e\npiccola\npiccole\n\n\ne -&gt; i\ngrande\ngrandi\n\n\ng + h\nlungo\nlunghi\n\n\ng + h\nlunga\nlunghe"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#esercizio-1",
     "href": "post_gramm/plurale/grammatica2.html#esercizio-1",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "Esercizio 1",
-    "text": "Esercizio 1\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    panino piccolo \n    panini piccoli \n  \n  \n    salame grande \n    salami grandi \n  \n  \n    pizza piccola \n    pizze piccole \n  \n  \n    madre francese \n    madri francesi \n  \n  \n    panino grande \n    panini grandi \n  \n  \n    salame piccolo \n    salami piccoli \n  \n  \n    pizza grande \n    pizze grandi \n  \n  \n    madre bella \n    madri belle \n  \n  \n    grande magazzino \n    grandi magazzini \n  \n  \n    piccola patata \n    patate piccole"
+    "text": "Esercizio 1\n\n\n\n\n\nsingolare\nplurale\n\n\n\n\npanino piccolo\npanini piccoli\n\n\nsalame grande\nsalami grandi\n\n\npizza piccola\npizze piccole\n\n\nmadre francese\nmadri francesi\n\n\npanino grande\npanini grandi\n\n\nsalame piccolo\nsalami piccoli\n\n\npizza grande\npizze grandi\n\n\nmadre bella\nmadri belle\n\n\ngrande magazzino\ngrandi magazzini\n\n\npiccola patata\npatate piccole"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#esercizio-2",
     "href": "post_gramm/plurale/grammatica2.html#esercizio-2",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "Esercizio 2",
-    "text": "Esercizio 2\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    Il mio libro \n    i miei libri \n  \n  \n    la tua casa \n    le tue case \n  \n  \n    il suo professore \n    i suoi professori \n  \n  \n    il vostro amico \n    i vostri amici \n  \n  \n    la nostra macchina \n    le nostre macchine \n  \n  \n    la loro cugina \n    le loro cugine \n  \n  \n    la mia bambina \n    le lie bambine \n  \n  \n    il tuo hobby \n    i tuoi hobby \n  \n  \n    la sua bicicletta \n    le sue biciclette \n  \n  \n    la vostra vacanza \n    le vostre vacanze \n  \n  \n    il nostro gatto \n    i nostri gatti \n  \n  \n    la loro sorella \n    le loro sorelle"
+    "text": "Esercizio 2\n\n\n\n\n\nsingolare\nplurale\n\n\n\n\nIl mio libro\ni miei libri\n\n\nla tua casa\nle tue case\n\n\nil suo professore\ni suoi professori\n\n\nil vostro amico\ni vostri amici\n\n\nla nostra macchina\nle nostre macchine\n\n\nla loro cugina\nle loro cugine\n\n\nla mia bambina\nle lie bambine\n\n\nil tuo hobby\ni tuoi hobby\n\n\nla sua bicicletta\nle sue biciclette\n\n\nla vostra vacanza\nle vostre vacanze\n\n\nil nostro gatto\ni nostri gatti\n\n\nla loro sorella\nle loro sorelle"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#esercizio-3",
     "href": "post_gramm/plurale/grammatica2.html#esercizio-3",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "Esercizio 3",
-    "text": "Esercizio 3\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    La casa è grande \n    Le case sono grandi \n  \n  \n    Lo studente è straniero \n    Gli studenti sono stranieri \n  \n  \n    Il bambino non è piccolo \n    I bambini non sono piccoli \n  \n  \n    Il tavolo è grande \n    I tavoli sono grandi \n  \n  \n    La fiera è moderna \n    Le fiere sono moderne \n  \n  \n    La zia è gentile \n    Le zie sono gentili \n  \n  \n    La signora è sposato \n    Le signore sono sposate \n  \n  \n    La madre è tradizionale \n    Le madri sono traditionali \n  \n  \n    Il posto non è libero \n    I posti non sono liberi \n  \n  \n    La bambina è olandese \n    Le bambine sono olandesi"
+    "text": "Esercizio 3\n\n\n\n\n\nsingolare\nplurale\n\n\n\n\nLa casa è grande\nLe case sono grandi\n\n\nLo studente è straniero\nGli studenti sono stranieri\n\n\nIl bambino non è piccolo\nI bambini non sono piccoli\n\n\nIl tavolo è grande\nI tavoli sono grandi\n\n\nLa fiera è moderna\nLe fiere sono moderne\n\n\nLa zia è gentile\nLe zie sono gentili\n\n\nLa signora è sposato\nLe signore sono sposate\n\n\nLa madre è tradizionale\nLe madri sono traditionali\n\n\nIl posto non è libero\nI posti non sono liberi\n\n\nLa bambina è olandese\nLe bambine sono olandesi"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#esercizio-4",
     "href": "post_gramm/plurale/grammatica2.html#esercizio-4",
     "title": "Il plurale dei sostantivi, aggettivi, articoli",
     "section": "Esercizio 4",
-    "text": "Esercizio 4\n\n\n\n\n\n\n\n \n  \n    singolare \n    plurale \n  \n \n\n  \n    il biscotto \n    i biscotti \n  \n  \n    il panino \n    i panini \n  \n  \n    il piatto \n    i piatti \n  \n  \n    l’amico \n    gli amici \n  \n  \n    il gatto \n    i gatti \n  \n  \n    l’albero \n    gli alberi \n  \n  \n    il monumento \n    i monumenti \n  \n  \n    il succo \n    i succhi \n  \n  \n    il vino \n    i vini"
+    "text": "Esercizio 4\n\n\n\n\n\nsingolare\nplurale\n\n\n\n\nil biscotto\ni biscotti\n\n\nil panino\ni panini\n\n\nil piatto\ni piatti\n\n\nl’amico\ngli amici\n\n\nil gatto\ni gatti\n\n\nl’albero\ngli alberi\n\n\nil monumento\ni monumenti\n\n\nil succo\ni succhi\n\n\nil vino\ni vini"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html#articoli",
@@ -81,42 +88,84 @@
     "href": "post_gramm/preparticolate/preparticolate1.html",
     "title": "Preposizione articolati",
     "section": "",
-    "text": "DA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Vado dal dottore. \n    Ik ga naar de dokter. \n    da \n  \n  \n    Ho ricevuto una cartolina dall' Italia. \n    Ik kreeg een ansichtkaart uit Italië. \n    da \n  \n  \n    Il colore è indipendente dallo spessore. \n    De kleur is onafhankelijk van de dikte. \n    da \n  \n  \n    Scendo dalla metropolitana. \n    Ik stap uit de metro. \n    da \n  \n  \n    A pranzo vado dai miei nonni. \n    Ik ga lunchen bij mijn grootouders. \n    da \n  \n  \n    Ma abbiamo imparato molto dagli errori. \n    Maar we hebben veel geleerd van fouten. \n    da \n  \n  \n    A cena vado dalle mie amiche. \n    Ik ga naar mijn vrienden voor het avondeten. \n    da \n  \n\n\n\n\n\n\n\nDI\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Scusi, dov'è il parcheggio del ristorante? \n    Pardon, waar is de parkeerplaats van het restaurant? \n    di \n  \n  \n    Dov'è l'entrata dell' albergo? \n    Waar is de hotelingang? \n    di \n  \n  \n    La dimensione economica dello sport \n    De economische dimensie van sport \n    di \n  \n  \n    Qesta borsa è della mia amica Eva. \n    Deze tas is van mijn vriendin Eva. \n    di \n  \n  \n    Questa è l'auto dei miei genitori. \n    Dit is de auto van mijn ouders. \n    di \n  \n  \n    Il passaporto è degli zii di Lucia. \n    Het paspoort is van Lucia's ooms. \n    di \n  \n  \n    La riforma delle pensioni \n    De pensioenhervorming \n    di \n  \n\n\n\n\n\n\n\nAL\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Per fare la spesa vado al supermercato. \n    Om boodschappen te doen ga ik naar de supermarkt. \n    al \n  \n  \n    Pranzo sempre all' una. \n    ik lunch altijd om één uur. \n    al \n  \n  \n    Prestiamo alta attenzione allo sviluppo di nuovo stile dei prodotti. \n    We besteden veel aandacht aan de ontwikkeling van nieuwe stijlproducten. \n    al \n  \n  \n    Domani mattina devo andare alla stazione. \n    Morgenochtend moet ik naar het station. \n    al \n  \n  \n    Mi piace il risotto ai funghi. \n    Ik hou van paddenstoelenrisotto. \n    al \n  \n  \n    Ho comprato una crema agli asparagi. \n    Ik heb een aspergecrème gekocht. \n    al \n  \n  \n    Dalle scarpe alle forniture per auto e dalla vernice alle scorte scolastiche. \n    Van schoenen tot autospullen en van verf tot schoolspullen. \n    al \n  \n\n\n\n\n\n\n\nIN\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Nel mio giardino ci sono tanti fiori e piante. \n    In mijn tuin staan ​​veel bloemen en planten. \n    in \n  \n  \n    I vestiti sono nell' armadio. \n    De kleren liggen in de kast. \n    in \n  \n  \n    Piccoli raggruppamenti sparsi nel mondo nello stesso istante. \n    Kleine groepen verspreidden zich op hetzelfde moment over de hele wereld. \n    in \n  \n  \n    Il portafoglio è nella borsa. \n    De portemonnee zit in de tas. \n    in \n  \n  \n    Ci sono nei mercati e nei supermercati, gustosi oggetti in vendita. \n    Er zijn op markten en supermarkten lekkere dingen te koop. \n    in \n  \n  \n    Un mio amico vive negli Stati Uniti. \n    Een vriend van mij woont in de VS. \n    in \n  \n  \n    Ci sono tanti turisti nelle città italiane. \n    Er zijn veel toeristen in Italiaanse steden. \n    in \n  \n\n\n\n\n\n\n\nSU\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    La bottiglia è sul tavolo. \n    De fles staat op tafel. \n    su \n  \n  \n    Il gatto è sull'albero. \n    De kat zit in de boom. \n    su \n  \n  \n    Vorrei aggiungere qualcosa sullo sport nella scuola. \n    Ik wil nog iets toevoegen over sport op school. \n    su \n  \n  \n    C'è un ragno sulla tua maglietta! \n    Er zit een spin op je shirt! \n    su \n  \n  \n    Ho comprato un libro sui poeti italiani. \n    Ik kocht een boek over Italiaanse dichters. \n    su \n  \n  \n    C'è una macchia sugli stivali. \n    Er zit een vlek op de laarzen. \n    su \n  \n  \n    Vado in vacanza sulle Alpi. \n    Ik ga op vakantie naar de Alpen. \n    su"
+    "text": "DA\n\n\n\n\n\n\n\n\n\n\nitaliano\nnederlands\npreposizione\n\n\n\n\nVado dal dottore.\nIk ga naar de dokter.\nda\n\n\nHo ricevuto una cartolina dall' Italia.\nIk kreeg een ansichtkaart uit Italië.\nda\n\n\nIl colore è indipendente dallo spessore.\nDe kleur is onafhankelijk van de dikte.\nda\n\n\nScendo dalla metropolitana.\nIk stap uit de metro.\nda\n\n\nA pranzo vado dai miei nonni.\nIk ga lunchen bij mijn grootouders.\nda\n\n\nMa abbiamo imparato molto dagli errori.\nMaar we hebben veel geleerd van fouten.\nda\n\n\nA cena vado dalle mie amiche.\nIk ga naar mijn vrienden voor het avondeten.\nda\n\n\n\n\n\n\n\n\n\nDI\n\n\n\n\n\n\n\n\n\n\nitaliano\nnederlands\npreposizione\n\n\n\n\nScusi, dov'è il parcheggio del ristorante?\nPardon, waar is de parkeerplaats van het restaurant?\ndi\n\n\nDov'è l'entrata dell' albergo?\nWaar is de hotelingang?\ndi\n\n\nLa dimensione economica dello sport\nDe economische dimensie van sport\ndi\n\n\nQesta borsa è della mia amica Eva.\nDeze tas is van mijn vriendin Eva.\ndi\n\n\nQuesta è l'auto dei miei genitori.\nDit is de auto van mijn ouders.\ndi\n\n\nIl passaporto è degli zii di Lucia.\nHet paspoort is van Lucia's ooms.\ndi\n\n\nLa riforma delle pensioni\nDe pensioenhervorming\ndi\n\n\n\n\n\n\n\n\n\nAL\n\n\n\n\n\n\n\n\n\n\nitaliano\nnederlands\npreposizione\n\n\n\n\nPer fare la spesa vado al supermercato.\nOm boodschappen te doen ga ik naar de supermarkt.\nal\n\n\nPranzo sempre all' una.\nik lunch altijd om één uur.\nal\n\n\nPrestiamo alta attenzione allo sviluppo di nuovo stile dei prodotti.\nWe besteden veel aandacht aan de ontwikkeling van nieuwe stijlproducten.\nal\n\n\nDomani mattina devo andare alla stazione.\nMorgenochtend moet ik naar het station.\nal\n\n\nMi piace il risotto ai funghi.\nIk hou van paddenstoelenrisotto.\nal\n\n\nHo comprato una crema agli asparagi.\nIk heb een aspergecrème gekocht.\nal\n\n\nDalle scarpe alle forniture per auto e dalla vernice alle scorte scolastiche.\nVan schoenen tot autospullen en van verf tot schoolspullen.\nal\n\n\n\n\n\n\n\n\n\nIN\n\n\n\n\n\n\n\n\n\n\nitaliano\nnederlands\npreposizione\n\n\n\n\nNel mio giardino ci sono tanti fiori e piante.\nIn mijn tuin staan ​​veel bloemen en planten.\nin\n\n\nI vestiti sono nell' armadio.\nDe kleren liggen in de kast.\nin\n\n\nPiccoli raggruppamenti sparsi nel mondo nello stesso istante.\nKleine groepen verspreidden zich op hetzelfde moment over de hele wereld.\nin\n\n\nIl portafoglio è nella borsa.\nDe portemonnee zit in de tas.\nin\n\n\nCi sono nei mercati e nei supermercati, gustosi oggetti in vendita.\nEr zijn op markten en supermarkten lekkere dingen te koop.\nin\n\n\nUn mio amico vive negli Stati Uniti.\nEen vriend van mij woont in de VS.\nin\n\n\nCi sono tanti turisti nelle città italiane.\nEr zijn veel toeristen in Italiaanse steden.\nin\n\n\n\n\n\n\n\n\n\nSU\n\n\n\n\n\n\n\n\n\n\nitaliano\nnederlands\npreposizione\n\n\n\n\nLa bottiglia è sul tavolo.\nDe fles staat op tafel.\nsu\n\n\nIl gatto è sull'albero.\nDe kat zit in de boom.\nsu\n\n\nVorrei aggiungere qualcosa sullo sport nella scuola.\nIk wil nog iets toevoegen over sport op school.\nsu\n\n\nC'è un ragno sulla tua maglietta!\nEr zit een spin op je shirt!\nsu\n\n\nHo comprato un libro sui poeti italiani.\nIk kocht een boek over Italiaanse dichters.\nsu\n\n\nC'è una macchia sugli stivali.\nEr zit een vlek op de laarzen.\nsu\n\n\nVado in vacanza sulle Alpi.\nIk ga op vakantie naar de Alpen.\nsu"
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-1",
     "href": "post_gramm/questo/questo1.html#esempi-1",
     "title": "Questo - Questa",
     "section": "Esempi 1",
-    "text": "Esempi 1\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nSenza questo lavoro, l'umanità sarà inerme.\nZonder dit werk zal de mensheid hulpeloos zijn.\n\n\nHo rischiato per farti ottenere questo lavoro.\nIk heb het risico genomen om je deze baan te bezorgen.\n\n\nQuando cominciai questo lavoro, pensavo sarebbe stato emozionante.\nToen ik aan deze baan begon, dacht ik dat het spannend zou zijn.\n\n\nDetto questo, riconosco che questi lavori dovrebbero essere più accessibili.\nDat gezegd hebbende, erken ik dat deze banen toegankelijker moeten zijn.\n\n\nMetà di questo lavoro è fortuna.\nDe helft van dit werk is geluk."
+    "text": "Esempi 1\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nCerto che posso fare questo lavoro.\nNatuurlijk kan ik dit werk doen.\n\n\nSenza questo lavoro, l'umanità sarà inerme.\nZonder dit werk zal de mensheid hulpeloos zijn.\n\n\nAccettare questo lavoro significa rifiutare tutte le altre possibilità.\nDeze baan accepteren betekent alle andere mogelijkheden afwijzen.\n\n\nDetto questo, riconosco che questi lavori dovrebbero essere più accessibili.\nDat gezegd hebbende, erken ik dat deze banen toegankelijker moeten zijn.\n\n\nHo rischiato per farti ottenere questo lavoro.\nIk heb het risico genomen om je deze baan te bezorgen."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-2",
     "href": "post_gramm/questo/questo1.html#esempi-2",
     "title": "Questo - Questa",
     "section": "Esempi 2",
-    "text": "Esempi 2\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon potrete lasciare questa casa senza essere osservato.\nU kunt dit huis niet verlaten zonder geobserveerd te worden.\n\n\nNon comprerò questa casa con te.\nIk koop dit huis niet met jou.\n\n\nDevo sbarazzarmi di questa casa.\nIk moet van dit huis af.\n\n\nAbbiamo rintracciato la telefonata, veniva da questa casa.\nWe hebben het telefoontje getraceerd, het kwam uit dit huis.\n\n\nNemmeno mi piace più questa casa.\nIk vind dit huis niet eens meer leuk."
+    "text": "Esempi 2\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon comprerò questa casa con te.\nIk koop dit huis niet met jou.\n\n\nNemmeno mi piace più questa casa.\nIk vind dit huis niet eens meer leuk.\n\n\nNon potrete lasciare questa casa senza essere osservato.\nU kunt dit huis niet verlaten zonder geobserveerd te worden.\n\n\nAbbiamo rintracciato la telefonata, veniva da questa casa.\nWe hebben het telefoontje getraceerd, het kwam uit dit huis.\n\n\nNon capisco perché vuoi vedere questa casa.\nIk begrijp niet waarom je dit huis wilt zien."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-3",
     "href": "post_gramm/questo/questo1.html#esempi-3",
     "title": "Questo - Questa",
     "section": "Esempi 3",
-    "text": "Esempi 3\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon avrei dovuto metterti quest'idea in testa.\nIk had dat idee niet in je hoofd moeten steken.\n\n\nEinstein era legato a quest'idea.\nEinstein was gehecht aan dit idee.\n\n\nPuoi levarti pure quest'idea dalla testa.\nDat idee kun je ook uit je hoofd krijgen.\n\n\nNon posso credere che stiamo davvero considerando quest'idea.\nIk kan niet geloven dat we dit idee overwegen.\n\n\nMentre accade tutto ciò, stiamo diffondendo quest'idea nel mondo.\nTerwijl dit allemaal gebeurt, verspreiden we dit idee over de hele wereld."
+    "text": "Esempi 3\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon avrei dovuto metterti quest'idea in testa.\nIk had dat idee niet in je hoofd moeten steken.\n\n\nNon posso credere che stiamo davvero considerando quest'idea.\nIk kan niet geloven dat we dit idee overwegen.\n\n\nEinstein era legato a quest'idea.\nEinstein was gehecht aan dit idee.\n\n\nHo avuto quest'idea un giorno mentre andavo in autobus al lavoro.\nOp een dag kreeg ik dit idee tijdens mijn busrit naar mijn werk.\n\n\nPuoi levarti pure quest'idea dalla testa.\nDat idee kun je ook uit je hoofd krijgen."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-4",
     "href": "post_gramm/questo/questo1.html#esempi-4",
     "title": "Questo - Questa",
     "section": "Esempi 4",
-    "text": "Esempi 4\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nGli architetti stanno pensando a queste idee da molto tempo.\nArchitecten hebben lang over deze ideeën nagedacht.\n\n\nCome possiamo aiutarti a diffondere queste idee?\nHoe kunnen we u helpen deze ideeën te verspreiden?\n\n\nTutte queste idee sono già sulla carta.\nAl deze ideeën staan ​​al op papier.\n\n\nDobbiamo liberare noi stessi da alcune di queste idee.\nWe moeten ons van sommige van deze ideeën bevrijden.\n\n\nBen poche di queste idee si sono tradotte in realtà.\nZeer weinig van deze ideeën zijn in werkelijkheid vertaald."
+    "text": "Esempi 4\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nSe siete interessati a queste idee, visitate questo sito.\nAls u geïnteresseerd bent in deze ideeën, bezoek dan deze site.\n\n\nBen poche di queste idee si sono tradotte in realtà.\nZeer weinig van deze ideeën zijn in werkelijkheid vertaald.\n\n\nDobbiamo liberare noi stessi da alcune di queste idee.\nWe moeten ons van sommige van deze ideeën bevrijden.\n\n\nCome possiamo aiutarti a diffondere queste idee?\nHoe kunnen we u helpen deze ideeën te verspreiden?\n\n\nTutte queste idee sono già sulla carta.\nAl deze ideeën staan ​​al op papier."
   },
   {
     "objectID": "post_gramm/verbi1/grammatica1.html",
     "href": "post_gramm/verbi1/grammatica1.html",
     "title": "Verbi",
     "section": "",
-    "text": "spreken \n  \n \n\n  \n    parlare \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    parlo \n  \n  \n    Presente \n    tu \n    parli \n  \n  \n    Presente \n    lui, lei, Lei \n    parla \n  \n  \n    Presente \n    noi \n    parliamo \n  \n  \n    Presente \n    voi \n    parlate \n  \n  \n    Presente \n    loro, Loro \n    parlano \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    lachen \n  \n \n\n  \n    ridere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    rido \n  \n  \n    Presente \n    tu \n    ridi \n  \n  \n    Presente \n    lui, lei, Lei \n    ride \n  \n  \n    Presente \n    noi \n    ridiamo \n  \n  \n    Presente \n    voi \n    ridete \n  \n  \n    Presente \n    loro, Loro \n    ridono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    horen \n  \n \n\n  \n    sentire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    sento \n  \n  \n    Presente \n    tu \n    senti \n  \n  \n    Presente \n    lui, lei, Lei \n    sente \n  \n  \n    Presente \n    noi \n    sentiamo \n  \n  \n    Presente \n    voi \n    sentite \n  \n  \n    Presente \n    loro, Loro \n    sentono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    verkiezen \n  \n \n\n  \n    preferire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    preferisco \n  \n  \n    Presente \n    tu \n    preferisci \n  \n  \n    Presente \n    lui, lei, Lei \n    preferisce \n  \n  \n    Presente \n    noi \n    preferiamo \n  \n  \n    Presente \n    voi \n    preferite \n  \n  \n    Presente \n    loro, Loro \n    preferiscono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    zijn \n  \n \n\n  \n    essere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    sono \n  \n  \n    Presente \n    tu \n    sei \n  \n  \n    Presente \n    lui, lei, Lei \n    è \n  \n  \n    Presente \n    noi \n    siamo \n  \n  \n    Presente \n    voi \n    siete \n  \n  \n    Presente \n    loro, Loro \n    sono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    hebben \n  \n \n\n  \n    avere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    ho \n  \n  \n    Presente \n    tu \n    hai \n  \n  \n    Presente \n    lui, lei, Lei \n    ha \n  \n  \n    Presente \n    noi \n    abbiamo \n  \n  \n    Presente \n    voi \n    avete \n  \n  \n    Presente \n    loro, Loro \n    hanno \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    gaan \n  \n \n\n  \n    andare \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    vado, vo \n  \n  \n    Presente \n    tu \n    vai \n  \n  \n    Presente \n    lui, lei, Lei \n    va \n  \n  \n    Presente \n    noi \n    andiamo \n  \n  \n    Presente \n    voi \n    andate \n  \n  \n    Presente \n    loro, Loro \n    vanno \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    geven \n  \n \n\n  \n    dare \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    do \n  \n  \n    Presente \n    tu \n    dai \n  \n  \n    Presente \n    lui, lei, Lei \n    dà \n  \n  \n    Presente \n    noi \n    diamo \n  \n  \n    Presente \n    voi \n    date \n  \n  \n    Presente \n    loro, Loro \n    danno \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    drinken \n  \n \n\n  \n    bere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    bevo \n  \n  \n    Presente \n    tu \n    bevi \n  \n  \n    Presente \n    lui, lei, Lei \n    beve \n  \n  \n    Presente \n    noi \n    beviamo \n  \n  \n    Presente \n    voi \n    bevete \n  \n  \n    Presente \n    loro, Loro \n    bevono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    zeggen \n  \n \n\n  \n    dire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    dico \n  \n  \n    Presente \n    tu \n    dici \n  \n  \n    Presente \n    lui, lei, Lei \n    dice \n  \n  \n    Presente \n    noi \n    diciamo \n  \n  \n    Presente \n    voi \n    dite \n  \n  \n    Presente \n    loro, Loro \n    dicono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    houden \n  \n \n\n  \n    tenere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    tengo \n  \n  \n    Presente \n    tu \n    tieni \n  \n  \n    Presente \n    lui, lei, Lei \n    tiene \n  \n  \n    Presente \n    noi \n    teniamo \n  \n  \n    Presente \n    voi \n    tenete \n  \n  \n    Presente \n    loro, Loro \n    tengono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    uitgaan \n  \n \n\n  \n    uscire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    esco \n  \n  \n    Presente \n    tu \n    esci \n  \n  \n    Presente \n    lui, lei, Lei \n    esce \n  \n  \n    Presente \n    noi \n    usciamo \n  \n  \n    Presente \n    voi \n    uscite \n  \n  \n    Presente \n    loro, Loro \n    escono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    komen \n  \n \n\n  \n    venire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    vengo \n  \n  \n    Presente \n    tu \n    vieni \n  \n  \n    Presente \n    lui, lei, Lei \n    viene \n  \n  \n    Presente \n    noi \n    veniamo \n  \n  \n    Presente \n    voi \n    venite \n  \n  \n    Presente \n    loro, Loro \n    vengono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    moeten \n  \n \n\n  \n    dovere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    devo, debbo \n  \n  \n    Presente \n    tu \n    devi \n  \n  \n    Presente \n    lui, lei, Lei \n    deve \n  \n  \n    Presente \n    noi \n    dobbiamo \n  \n  \n    Presente \n    voi \n    dovete \n  \n  \n    Presente \n    loro, Loro \n    devono, debbono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    kunnen \n  \n \n\n  \n    potere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    posso \n  \n  \n    Presente \n    tu \n    puoi \n  \n  \n    Presente \n    lui, lei, Lei \n    può \n  \n  \n    Presente \n    noi \n    possiamo \n  \n  \n    Presente \n    voi \n    potete \n  \n  \n    Presente \n    loro, Loro \n    possono \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    weten, kunnen \n  \n \n\n  \n    sapere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    so \n  \n  \n    Presente \n    tu \n    sai \n  \n  \n    Presente \n    lui, lei, Lei \n    sa \n  \n  \n    Presente \n    noi \n    sappiamo \n  \n  \n    Presente \n    voi \n    sapete \n  \n  \n    Presente \n    loro, Loro \n    sanno \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    willen \n  \n \n\n  \n    volere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Presente \n    io \n    voglio \n  \n  \n    Presente \n    tu \n    vuoi \n  \n  \n    Presente \n    lui, lei, Lei \n    vuole \n  \n  \n    Presente \n    noi \n    vogliamo \n  \n  \n    Presente \n    voi \n    volete \n  \n  \n    Presente \n    loro, Loro \n    vogliono"
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmoeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#a---vervoeging",
+    "href": "post_gramm/verbi1/grammatica1.html#a---vervoeging",
+    "title": "Verbi",
+    "section": "",
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#e---vervoeging",
+    "href": "post_gramm/verbi1/grammatica1.html#e---vervoeging",
+    "title": "Verbi",
+    "section": "",
+    "text": "lachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#i---vervoeging",
+    "href": "post_gramm/verbi1/grammatica1.html#i---vervoeging",
+    "title": "Verbi",
+    "section": "",
+    "text": "horen\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#essere-avere",
+    "href": "post_gramm/verbi1/grammatica1.html#essere-avere",
+    "title": "Verbi",
+    "section": "",
+    "text": "zijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#onregelmatige-werkwoorden",
+    "href": "post_gramm/verbi1/grammatica1.html#onregelmatige-werkwoorden",
+    "title": "Verbi",
+    "section": "",
+    "text": "gaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono"
+  },
+  {
+    "objectID": "post_gramm/verbi1/grammatica1.html#modale-werkwoorden",
+    "href": "post_gramm/verbi1/grammatica1.html#modale-werkwoorden",
+    "title": "Verbi",
+    "section": "",
+    "text": "moeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono"
   },
   {
     "objectID": "post_gramm/verbi2/Indicativo_Imperfetto.html#verbi",
@@ -126,60 +175,179 @@
     "text": "Verbi\n\nParlareRidereSentirePreferire\n\n\nparlavo\nparlavi\nparlava\nparlavamo\nparlavate\nparlavano\n\n\nridevo\nridevi\nrideva\nridevamo\nridevate\nridevano\n\n\nsentivo\nsentivi\nsentiva\nsentivamo\nsentivate\nsentivano\n\n\npreferivo\npreferivi\npreferiva\npreferivamo\npreferivate\npreferivano"
   },
   {
+    "objectID": "post_gramm/verbi3/imperfetto.html",
+    "href": "post_gramm/verbi3/imperfetto.html",
+    "title": "Indicativo Imperfetto",
+    "section": "",
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nparlavo\n\n\nImperfetto\ntu\nparlavi\n\n\nImperfetto\nlui, lei, Lei\nparlava\n\n\nImperfetto\nnoi\nparlavamo\n\n\nImperfetto\nvoi\nparlavate\n\n\nImperfetto\nloro, Loro\nparlavano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nridevo\n\n\nImperfetto\ntu\nridevi\n\n\nImperfetto\nlui, lei, Lei\nrideva\n\n\nImperfetto\nnoi\nridevamo\n\n\nImperfetto\nvoi\nridevate\n\n\nImperfetto\nloro, Loro\nridevano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nsentivo\n\n\nImperfetto\ntu\nsentivi\n\n\nImperfetto\nlui, lei, Lei\nsentiva\n\n\nImperfetto\nnoi\nsentivamo\n\n\nImperfetto\nvoi\nsentivate\n\n\nImperfetto\nloro, Loro\nsentivano\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\npreferivo\n\n\nImperfetto\ntu\npreferivi\n\n\nImperfetto\nlui, lei, Lei\npreferiva\n\n\nImperfetto\nnoi\npreferivamo\n\n\nImperfetto\nvoi\npreferivate\n\n\nImperfetto\nloro, Loro\npreferivano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nero\n\n\nImperfetto\ntu\neri\n\n\nImperfetto\nlui, lei, Lei\nera\n\n\nImperfetto\nnoi\neravamo\n\n\nImperfetto\nvoi\neravate\n\n\nImperfetto\nloro, Loro\nerano\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\navevo\n\n\nImperfetto\ntu\navevi\n\n\nImperfetto\nlui, lei, Lei\naveva\n\n\nImperfetto\nnoi\navevamo\n\n\nImperfetto\nvoi\navevate\n\n\nImperfetto\nloro, Loro\navevano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nbevevo\n\n\nImperfetto\ntu\nbevevi\n\n\nImperfetto\nlui, lei, Lei\nbeveva\n\n\nImperfetto\nnoi\nbevevamo\n\n\nImperfetto\nvoi\nbevevate\n\n\nImperfetto\nloro, Loro\nbevevano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\ndicevo\n\n\nImperfetto\ntu\ndicevi\n\n\nImperfetto\nlui, lei, Lei\ndiceva\n\n\nImperfetto\nnoi\ndicevamo\n\n\nImperfetto\nvoi\ndicevate\n\n\nImperfetto\nloro, Loro\ndicevano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndoen\n\n\n\n\nfare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nfacevo\n\n\nImperfetto\ntu\nfacevi\n\n\nImperfetto\nlui, lei, Lei\nfaceva\n\n\nImperfetto\nnoi\nfacevamo\n\n\nImperfetto\nvoi\nfacevate\n\n\nImperfetto\nloro, Loro\nfacevano"
+  },
+  {
     "objectID": "post_gramm/verbi3/imperfetto.html#a---vervoeging",
     "href": "post_gramm/verbi3/imperfetto.html#a---vervoeging",
     "title": "Indicativo Imperfetto",
-    "section": "a - vervoeging",
-    "text": "a - vervoeging\n\n\n\n\n\n\n\n \n  \n    spreken \n  \n \n\n  \n    parlare \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    parlavo \n  \n  \n    Imperfetto \n    tu \n    parlavi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    parlava \n  \n  \n    Imperfetto \n    noi \n    parlavamo \n  \n  \n    Imperfetto \n    voi \n    parlavate \n  \n  \n    Imperfetto \n    loro, Loro \n    parlavano"
+    "section": "",
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nparlavo\n\n\nImperfetto\ntu\nparlavi\n\n\nImperfetto\nlui, lei, Lei\nparlava\n\n\nImperfetto\nnoi\nparlavamo\n\n\nImperfetto\nvoi\nparlavate\n\n\nImperfetto\nloro, Loro\nparlavano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#e---vervoeging",
     "href": "post_gramm/verbi3/imperfetto.html#e---vervoeging",
     "title": "Indicativo Imperfetto",
-    "section": "e - vervoeging",
-    "text": "e - vervoeging\n\n\n\n\n\n\n\n \n  \n    lachen \n  \n \n\n  \n    ridere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    ridevo \n  \n  \n    Imperfetto \n    tu \n    ridevi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    rideva \n  \n  \n    Imperfetto \n    noi \n    ridevamo \n  \n  \n    Imperfetto \n    voi \n    ridevate \n  \n  \n    Imperfetto \n    loro, Loro \n    ridevano"
+    "section": "",
+    "text": "lachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nridevo\n\n\nImperfetto\ntu\nridevi\n\n\nImperfetto\nlui, lei, Lei\nrideva\n\n\nImperfetto\nnoi\nridevamo\n\n\nImperfetto\nvoi\nridevate\n\n\nImperfetto\nloro, Loro\nridevano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#i---vervoeging",
     "href": "post_gramm/verbi3/imperfetto.html#i---vervoeging",
     "title": "Indicativo Imperfetto",
-    "section": "i - vervoeging",
-    "text": "i - vervoeging\n\n\n\n\n\n\n\n \n  \n    horen \n  \n \n\n  \n    sentire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    sentivo \n  \n  \n    Imperfetto \n    tu \n    sentivi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    sentiva \n  \n  \n    Imperfetto \n    noi \n    sentivamo \n  \n  \n    Imperfetto \n    voi \n    sentivate \n  \n  \n    Imperfetto \n    loro, Loro \n    sentivano \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    verkiezen \n  \n \n\n  \n    preferire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    preferivo \n  \n  \n    Imperfetto \n    tu \n    preferivi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    preferiva \n  \n  \n    Imperfetto \n    noi \n    preferivamo \n  \n  \n    Imperfetto \n    voi \n    preferivate \n  \n  \n    Imperfetto \n    loro, Loro \n    preferivano"
+    "section": "",
+    "text": "horen\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nsentivo\n\n\nImperfetto\ntu\nsentivi\n\n\nImperfetto\nlui, lei, Lei\nsentiva\n\n\nImperfetto\nnoi\nsentivamo\n\n\nImperfetto\nvoi\nsentivate\n\n\nImperfetto\nloro, Loro\nsentivano\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\npreferivo\n\n\nImperfetto\ntu\npreferivi\n\n\nImperfetto\nlui, lei, Lei\npreferiva\n\n\nImperfetto\nnoi\npreferivamo\n\n\nImperfetto\nvoi\npreferivate\n\n\nImperfetto\nloro, Loro\npreferivano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#essere-avere",
     "href": "post_gramm/verbi3/imperfetto.html#essere-avere",
     "title": "Indicativo Imperfetto",
-    "section": "essere , avere",
-    "text": "essere , avere\n\n\n\n\n\n\n\n \n  \n    zijn \n  \n \n\n  \n    essere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    ero \n  \n  \n    Imperfetto \n    tu \n    eri \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    era \n  \n  \n    Imperfetto \n    noi \n    eravamo \n  \n  \n    Imperfetto \n    voi \n    eravate \n  \n  \n    Imperfetto \n    loro, Loro \n    erano \n  \n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    hebben \n  \n \n\n  \n    avere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    avevo \n  \n  \n    Imperfetto \n    tu \n    avevi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    aveva \n  \n  \n    Imperfetto \n    noi \n    avevamo \n  \n  \n    Imperfetto \n    voi \n    avevate \n  \n  \n    Imperfetto \n    loro, Loro \n    avevano"
+    "section": "",
+    "text": "zijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nero\n\n\nImperfetto\ntu\neri\n\n\nImperfetto\nlui, lei, Lei\nera\n\n\nImperfetto\nnoi\neravamo\n\n\nImperfetto\nvoi\neravate\n\n\nImperfetto\nloro, Loro\nerano\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\navevo\n\n\nImperfetto\ntu\navevi\n\n\nImperfetto\nlui, lei, Lei\naveva\n\n\nImperfetto\nnoi\navevamo\n\n\nImperfetto\nvoi\navevate\n\n\nImperfetto\nloro, Loro\navevano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#bere",
     "href": "post_gramm/verbi3/imperfetto.html#bere",
     "title": "Indicativo Imperfetto",
-    "section": "bere",
-    "text": "bere\n\n\n\n\n\n\n\n \n  \n    drinken \n  \n \n\n  \n    bere \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    bevevo \n  \n  \n    Imperfetto \n    tu \n    bevevi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    beveva \n  \n  \n    Imperfetto \n    noi \n    bevevamo \n  \n  \n    Imperfetto \n    voi \n    bevevate \n  \n  \n    Imperfetto \n    loro, Loro \n    bevevano"
+    "section": "",
+    "text": "drinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nbevevo\n\n\nImperfetto\ntu\nbevevi\n\n\nImperfetto\nlui, lei, Lei\nbeveva\n\n\nImperfetto\nnoi\nbevevamo\n\n\nImperfetto\nvoi\nbevevate\n\n\nImperfetto\nloro, Loro\nbevevano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#dire",
     "href": "post_gramm/verbi3/imperfetto.html#dire",
     "title": "Indicativo Imperfetto",
-    "section": "dire",
-    "text": "dire\n\n\n\n\n\n\n\n \n  \n    zeggen \n  \n \n\n  \n    dire \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    dicevo \n  \n  \n    Imperfetto \n    tu \n    dicevi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    diceva \n  \n  \n    Imperfetto \n    noi \n    dicevamo \n  \n  \n    Imperfetto \n    voi \n    dicevate \n  \n  \n    Imperfetto \n    loro, Loro \n    dicevano"
+    "section": "",
+    "text": "zeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\ndicevo\n\n\nImperfetto\ntu\ndicevi\n\n\nImperfetto\nlui, lei, Lei\ndiceva\n\n\nImperfetto\nnoi\ndicevamo\n\n\nImperfetto\nvoi\ndicevate\n\n\nImperfetto\nloro, Loro\ndicevano"
   },
   {
     "objectID": "post_gramm/verbi3/imperfetto.html#fare",
     "href": "post_gramm/verbi3/imperfetto.html#fare",
     "title": "Indicativo Imperfetto",
-    "section": "fare",
-    "text": "fare\n\n\n\n\n\n\n\n \n  \n    doen \n  \n \n\n  \n    fare \n  \n\n\n\n\n\n\n\n\n\n \n  \n    modus \n    vnw \n    vervoeging \n  \n \n\n  \n    Imperfetto \n    io \n    facevo \n  \n  \n    Imperfetto \n    tu \n    facevi \n  \n  \n    Imperfetto \n    lui, lei, Lei \n    faceva \n  \n  \n    Imperfetto \n    noi \n    facevamo \n  \n  \n    Imperfetto \n    voi \n    facevate \n  \n  \n    Imperfetto \n    loro, Loro \n    facevano"
+    "section": "",
+    "text": "doen\n\n\n\n\nfare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nImperfetto\nio\nfacevo\n\n\nImperfetto\ntu\nfacevi\n\n\nImperfetto\nlui, lei, Lei\nfaceva\n\n\nImperfetto\nnoi\nfacevamo\n\n\nImperfetto\nvoi\nfacevate\n\n\nImperfetto\nloro, Loro\nfacevano"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section",
+    "href": "post_woorden/cibo/cibo.html#section",
+    "title": "Cibo e bevande",
+    "section": "1",
+    "text": "1\n\n\n\n\nlunch\npranzo"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-1",
+    "href": "post_woorden/cibo/cibo.html#section-1",
+    "title": "Cibo e bevande",
+    "section": "2",
+    "text": "2\n\n\n\n\nlimonade\nlimonata"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-2",
+    "href": "post_woorden/cibo/cibo.html#section-2",
+    "title": "Cibo e bevande",
+    "section": "3",
+    "text": "3\n\n\n\n\nbroodje\npanino"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-3",
+    "href": "post_woorden/cibo/cibo.html#section-3",
+    "title": "Cibo e bevande",
+    "section": "4",
+    "text": "4\n\n\n\n\nsalade\ninsalata"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-4",
+    "href": "post_woorden/cibo/cibo.html#section-4",
+    "title": "Cibo e bevande",
+    "section": "5",
+    "text": "5\n\n\n\n\nvrucht\nfrutto"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-5",
+    "href": "post_woorden/cibo/cibo.html#section-5",
+    "title": "Cibo e bevande",
+    "section": "6",
+    "text": "6\n\n\n\n\nfruit\nfrutta"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-6",
+    "href": "post_woorden/cibo/cibo.html#section-6",
+    "title": "Cibo e bevande",
+    "section": "7",
+    "text": "7\n\n\n\n\naardbei\nfragola"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-7",
+    "href": "post_woorden/cibo/cibo.html#section-7",
+    "title": "Cibo e bevande",
+    "section": "8",
+    "text": "8\n\n\n\n\ndrinken\nbevanda"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-8",
+    "href": "post_woorden/cibo/cibo.html#section-8",
+    "title": "Cibo e bevande",
+    "section": "9",
+    "text": "9\n\n\n\n\nmango\nmango"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-9",
+    "href": "post_woorden/cibo/cibo.html#section-9",
+    "title": "Cibo e bevande",
+    "section": "10",
+    "text": "10\n\n\n\n\npannenkoek\npancake (m) {EN}"
+  },
+  {
+    "objectID": "post_woorden/cibo/cibo.html#section-10",
+    "href": "post_woorden/cibo/cibo.html#section-10",
+    "title": "Cibo e bevande",
+    "section": "11",
+    "text": "11\nterug naar hoofdpagina"
+  },
+  {
+    "objectID": "post_woorden/negozi/negozi1.html",
+    "href": "post_woorden/negozi/negozi1.html",
+    "title": "Negozi",
+    "section": "",
+    "text": "Winkelen\nIn dit hoofdstuk worden woorden, zinnen en uitdrukkingen bij elkaar gebracht die verband houden met winkelen\n\n\nWerkwoorden\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\ncambiare\nwijzigen\n\n\nrestituire\nretourneren\n\n\nindossare\ndragen\n\n\ncomprare\nkopen\n\n\nprovare\nproberen\n\n\ndesiderare\nwensen\n\n\nvendere\nverkopen\n\n\nvedere\nzien\n\n\nscontare\nkorting geven\n\n\npreferire\nde voorkeur geven aan\n\n\nordinare\nin orde brengen\n\n\npagare\nbetalen\n\n\n\n\n\n\n\n\n\nKleuren\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nrosso\nrood\n\n\nazzuro\nhemelsblauw\n\n\nnero\nzwart\n\n\nverde\ngroen\n\n\nbianco\nwit\n\n\ngrigio\ngrijs\n\n\nblu\nblauw\n\n\nrosa\nroos\n\n\nceleste\nhemels\n\n\nmarrone\nbruin\n\n\n\n\n\n\n\n\n\nKleding\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\ncintura\nriem\n\n\nimpermeabile\nregenjas\n\n\nmaglia\ntrui\n\n\nmaglietta\nt-shirt\n\n\npantaloni\nbroek\n\n\nocchiali\nbril\n\n\ngiacca\njasje\n\n\ntessuti\nstoffen\n\n\nborsa\ntas\n\n\ncotone organico\norganisch katoen\n\n\nscarpe\nschoenen\n\n\nlino\nlinnen\n\n\ncotone\nkatoen\n\n\naccessori\naccessoires\n\n\ncotone biologico\norganisch katoen\n\n\nabiti\nkleren\n\n\nsciarpa\nsjaal\n\n\nvestito\njurk\n\n\nscialle\nsjaal\n\n\nseta\nzijde\n\n\nguanti\nhandschoenen\n\n\ncappello\nhoed\n\n\nmaglione\ntrui\n\n\ngonna\nrok\n\n\ncappotto\njas\n\n\n\n\n\n\n\n\n\nDiverse\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nabbigliamento\nkleding\n\n\nfornitore\nleverancier\n\n\ncliente\nklant\n\n\nnegozio di scarpe\nschoenenwinkel\n\n\nusato\ngebruikt\n\n\nattività\nactiviteit\n\n\noggestistica\nvoorwerpen\n\n\nscontato\nafgesprijsd\n\n\ndistributore\ndistributeur\n\n\ncommessa\nklerk\n\n\nnegozio\nwinkel\n\n\npelleteria\nlederwaren\n\n\nsu entra\nga naar binnen\n\n\napprendista\nleerling\n\n\necosostenibile\nmilieuvriendelijk\n\n\nnegoziante\nwinkelier\n\n\nacrilico\nacryl\n\n\nriciclato\ngerecycled\n\n\ngrandi magazzini\nwarenhuizen"
   },
   {
     "objectID": "post_woorden/numeri/numeri1.html",
     "href": "post_woorden/numeri/numeri1.html",
     "title": "Numeri",
     "section": "",
-    "text": "getal \n    italiaans \n  \n \n\n  \n    1 \n    uno \n  \n  \n    2 \n    due \n  \n  \n    3 \n    tre \n  \n  \n    4 \n    quattro \n  \n  \n    5 \n    cinque \n  \n  \n    6 \n    sei \n  \n  \n    7 \n    sette \n  \n  \n    8 \n    otto \n  \n  \n    9 \n    nove \n  \n  \n    10 \n    dieci \n  \n  \n    11 \n    undici \n  \n  \n    12 \n    dodici \n  \n  \n    13 \n    tredici \n  \n  \n    14 \n    quattordici \n  \n  \n    15 \n    quindici \n  \n  \n    16 \n    sedici \n  \n  \n    17 \n    diciassette \n  \n  \n    18 \n    diciotto \n  \n  \n    19 \n    diciannove \n  \n  \n    20 \n    venti \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n  \n \n\n  \n    10 \n    dieci \n  \n  \n    20 \n    venti \n  \n  \n    30 \n    trenta \n  \n  \n    40 \n    quaranta \n  \n  \n    50 \n    cinquanta \n  \n  \n    60 \n    sessanta \n  \n  \n    70 \n    settanta \n  \n  \n    80 \n    ottanta \n  \n  \n    90 \n    novanta \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n    mv \n  \n \n\n  \n    100 \n    cento \n    cento \n  \n  \n    1000 \n    mille \n    milla \n  \n  \n    1000000 \n    milione \n    milioni \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n  \n    getal \n    italiaans \n  \n \n\n  \n    1e \n    primo \n  \n  \n    2e \n    secondo \n  \n  \n    3e \n    terzo \n  \n  \n    4e \n    quarto \n  \n  \n    5e \n    quinto \n  \n  \n    6e \n    sesto \n  \n  \n    7e \n    settimo \n  \n  \n    8e \n    ottavo \n  \n  \n    9e \n    nono \n  \n  \n    10e \n    decimo \n  \n  \n    11e \n    undicesimo \n  \n  \n    12e \n    dodicesimo \n  \n  \n    13e \n    tredicesimo"
+    "text": "getal\nitaliaans\n\n\n\n\n1\nuno\n\n\n2\ndue\n\n\n3\ntre\n\n\n4\nquattro\n\n\n5\ncinque\n\n\n6\nsei\n\n\n7\nsette\n\n\n8\notto\n\n\n9\nnove\n\n\n10\ndieci\n\n\n11\nundici\n\n\n12\ndodici\n\n\n13\ntredici\n\n\n14\nquattordici\n\n\n15\nquindici\n\n\n16\nsedici\n\n\n17\ndiciassette\n\n\n18\ndiciotto\n\n\n19\ndiciannove\n\n\n20\nventi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngetal\nitaliaans\n\n\n\n\n10\ndieci\n\n\n20\nventi\n\n\n30\ntrenta\n\n\n40\nquaranta\n\n\n50\ncinquanta\n\n\n60\nsessanta\n\n\n70\nsettanta\n\n\n80\nottanta\n\n\n90\nnovanta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngetal\nitaliaans\nmv\n\n\n\n\n100\ncento\ncento\n\n\n1000\nmille\nmilla\n\n\n1000000\nmilione\nmilioni\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngetal\nitaliaans\n\n\n\n\n1e\nprimo\n\n\n2e\nsecondo\n\n\n3e\nterzo\n\n\n4e\nquarto\n\n\n5e\nquinto\n\n\n6e\nsesto\n\n\n7e\nsettimo\n\n\n8e\nottavo\n\n\n9e\nnono\n\n\n10e\ndecimo\n\n\n11e\nundicesimo\n\n\n12e\ndodicesimo\n\n\n13e\ntredicesimo"
+  },
+  {
+    "objectID": "post_woorden/numeri/numeri1.html#hoofdtelwoorden-van-1-tot-20",
+    "href": "post_woorden/numeri/numeri1.html#hoofdtelwoorden-van-1-tot-20",
+    "title": "Numeri",
+    "section": "",
+    "text": "getal\nitaliaans\n\n\n\n\n1\nuno\n\n\n2\ndue\n\n\n3\ntre\n\n\n4\nquattro\n\n\n5\ncinque\n\n\n6\nsei\n\n\n7\nsette\n\n\n8\notto\n\n\n9\nnove\n\n\n10\ndieci\n\n\n11\nundici\n\n\n12\ndodici\n\n\n13\ntredici\n\n\n14\nquattordici\n\n\n15\nquindici\n\n\n16\nsedici\n\n\n17\ndiciassette\n\n\n18\ndiciotto\n\n\n19\ndiciannove\n\n\n20\nventi"
+  },
+  {
+    "objectID": "post_woorden/numeri/numeri1.html#tientallen",
+    "href": "post_woorden/numeri/numeri1.html#tientallen",
+    "title": "Numeri",
+    "section": "",
+    "text": "getal\nitaliaans\n\n\n\n\n10\ndieci\n\n\n20\nventi\n\n\n30\ntrenta\n\n\n40\nquaranta\n\n\n50\ncinquanta\n\n\n60\nsessanta\n\n\n70\nsettanta\n\n\n80\nottanta\n\n\n90\nnovanta"
+  },
+  {
+    "objectID": "post_woorden/numeri/numeri1.html#en-meer",
+    "href": "post_woorden/numeri/numeri1.html#en-meer",
+    "title": "Numeri",
+    "section": "",
+    "text": "getal\nitaliaans\nmv\n\n\n\n\n100\ncento\ncento\n\n\n1000\nmille\nmilla\n\n\n1000000\nmilione\nmilioni"
+  },
+  {
+    "objectID": "post_woorden/numeri/numeri1.html#rangtelwoorden",
+    "href": "post_woorden/numeri/numeri1.html#rangtelwoorden",
+    "title": "Numeri",
+    "section": "",
+    "text": "getal\nitaliaans\n\n\n\n\n1e\nprimo\n\n\n2e\nsecondo\n\n\n3e\nterzo\n\n\n4e\nquarto\n\n\n5e\nquinto\n\n\n6e\nsesto\n\n\n7e\nsettimo\n\n\n8e\nottavo\n\n\n9e\nnono\n\n\n10e\ndecimo\n\n\n11e\nundicesimo\n\n\n12e\ndodicesimo\n\n\n13e\ntredicesimo"
   },
   {
     "objectID": "post_woorden/ore/ore1.html",
@@ -193,48 +361,41 @@
     "href": "post_zinnen/reeks1/reeks1.html#section",
     "title": "Reeks 1",
     "section": "1",
-    "text": "1\n\n\n\n\n\n\n\nKrappe arbeidsmarkten suggereren dat de prijzen mogelijk sneller blijven stijgen dan de markten denken.\nI mercati del lavoro tesi suggeriscono che i prezzi potrebbero continuare a salire più velocemente di quanto i mercati pensino."
+    "text": "1\n\n\n\n\nVorig jaar rond deze tijd waren centrale bankiers ’s nachts wakker omdat ze bang waren dat de stijgende verwachtingen van het publiek van hoge inflatie zichzelf zouden waarmaken.\nQuesta volta l’anno scorso i banchieri centrali erano svegli di notte preoccupati che le crescenti aspettative del pubblico di alta inflazione si sarebbero auto-avverate."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-1",
     "href": "post_zinnen/reeks1/reeks1.html#section-1",
     "title": "Reeks 1",
     "section": "2",
-    "text": "2\n\n\n\n\n\n\n\nLaten we hopen dat alles perfect werkt en niet zoals de vorige keer dat ik meerdere keren naar de receptie moest om te klagen\nSperiamo che tutto funziona alla perfezione e non come l’ ultima volta che sono dovuto andare diverse volte alla ricezione per lamentarmi"
+    "text": "2\n\n\n\n\nDrie attracties in één: zo zouden we het bezoek aan het elegante Siena Pubblico, een van de meest majestueuze gebouwen voor civiel gebruik in ons land, kunnen samenvatten.\nTre attrazioni in una: potremmo riassumere così la visita all’elegante Palazzo Pubblico senese, uno dei più maestosi edifici ad uso civile della nostra Nazione."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-2",
     "href": "post_zinnen/reeks1/reeks1.html#section-2",
     "title": "Reeks 1",
     "section": "3",
-    "text": "3\n\n\n\n\n\n\n\nDe Guinigi-toren is een van de belangrijkste torens in Lucca, evenals de enige intact gebleven binnen de muren. Gebouwd in baksteen en steen, werd het gebouwd in opdracht van de Guinigi-familie als een symbool van wedergeboorte: het bijzondere van het gebouw ligt in feite in de aanwezigheid op de top van enkele steeneiken, wat betekende dat de welvaart en het welzijn werden gebracht door de familie Guinigi.\nLa Torre Guinigi è una delle torri più importanti di Lucca, nonché l’unica rimasta intatta all’interno delle mura. Costruita in mattoni e pietra, venne realizzata per volere della famiglia Guinigi come simbolo di rinascita: la particolarità dell’edificio infatti sta nella presenza sulla sommità di alcuni lecci, che andavano a significare la prosperità e il benessere portati dalla famiglia Guinigi."
+    "text": "3\n\n\n\n\nUiteindelijk heb ik een kamer kunnen boeken in een hotel met uitzicht op het meer. Ik wil er al heel lang heen.\nFinalmente,sono riuscita prenotare una stanza in un albergo con vista sul lago. Era già da tanto tempo che desideravo andarci."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-3",
     "href": "post_zinnen/reeks1/reeks1.html#section-3",
     "title": "Reeks 1",
     "section": "4",
-    "text": "4\n\n\n\n\n\n\n\nVeel beleggers denken dat de inflatie onder controle is. Niet zo snel.\nMolti investitori pensano che l’inflazione sia sotto controllo. Non così in fretta."
+    "text": "4\n\n\n\n\nDoor de scherpste verkrapping van het monetaire beleid sinds de jaren tachtig uit te lokken, verbrijzelde het de eerdere consensus dat de rentetarieven in de rijke wereld voor altijd laag zouden blijven.\nProvocando il più netto inasprimento della politica monetaria dagli anni ’80, ha infranto il precedente consenso secondo cui i tassi di interesse del mondo ricco sarebbero rimasti bassi per sempre."
   },
   {
     "objectID": "woorden.html",
     "href": "woorden.html",
     "title": "Woordenschat",
     "section": "",
-    "text": "Deze pagina bevat thematisch gerichte woordenlijsten. Momenteel ben ik aan het experimenteren met inhoud en vorm.\nAlleszins is het mijn bedoeling om sommige posts dynamisch te maken en de inhoud elke week automatisch te laten veranderen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNegozi\n\n\n1 min\n\n\n\nwinkelen\n\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOre\n\n\n1 min\n\n\n\ntijdsaanduiding\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumeri\n\n\n1 min\n\n\n\ngetallen\n\n\n\n\n\n\n\nMay 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Deze pagina bevat thematisch gerichte woordenlijsten. Momenteel ben ik aan het experimenteren met inhoud en vorm.\nAlleszins is het mijn bedoeling om sommige posts dynamisch te maken en de inhoud elke week automatisch te laten veranderen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCibo e bevande\n\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNegozi\n\n\n1 min\n\n\n\nwinkelen\n\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOre\n\n\n1 min\n\n\n\ntijdsaanduiding\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNumeri\n\n\n1 min\n\n\n\ngetallen\n\n\n\n\n\n\n\nMay 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "zinnen.html",
     "href": "zinnen.html",
     "title": "Zinnen oefenen",
     "section": "",
-    "text": "Deze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\nJe kan de presentatie downloaden.\nWekelijks wordt de inhoud aangepast met andere zinnen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReeks 1\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "post_woorden/negozi/negozi1.html",
-    "href": "post_woorden/negozi/negozi1.html",
-    "title": "Negozi",
-    "section": "",
-    "text": "Winkelen\nIn dit hoofdstuk worden woorden, zinnen en uitdrukkingen bij elkaar gebracht die verband houden met winkelen\n\n\nWerkwoorden\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nordinare\nin orde brengen\n\n\nindossare\ndragen\n\n\nvendere\nverkopen\n\n\ndesiderare\nwensen\n\n\nrestituire\nretourneren\n\n\nvedere\nzien\n\n\npagare\nbetalen\n\n\ncambiare\nwijzigen\n\n\npreferire\nde voorkeur geven aan\n\n\nscontare\nkorting geven\n\n\ncomprare\nkopen\n\n\nprovare\nproberen\n\n\n\n\n\n\n\n\n\nKleuren\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nverde\ngroen\n\n\nrosa\nroos\n\n\nceleste\nhemels\n\n\nrosso\nrood\n\n\nbianco\nwit\n\n\nblu\nblauw\n\n\nnero\nzwart\n\n\nmarrone\nbruin\n\n\ngrigio\ngrijs\n\n\nazzuro\nhemelsblauw\n\n\n\n\n\n\n\n\n\nKleding\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nimpermeabile\nregenjas\n\n\nguanti\nhandschoenen\n\n\nvestito\njurk\n\n\nscarpe\nschoenen\n\n\nseta\nzijde\n\n\ncotone\nkatoen\n\n\nmaglietta\nt-shirt\n\n\ntessuti\nstoffen\n\n\ncappello\nhoed\n\n\ngiacca\njasje\n\n\nlino\nlinnen\n\n\nscialle\nsjaal\n\n\nocchiali\nbril\n\n\nabiti\nkleren\n\n\npantaloni\nbroek\n\n\ncintura\nriem\n\n\nmaglione\ntrui\n\n\nmaglia\ntrui\n\n\nborsa\ntas\n\n\ncappotto\njas\n\n\ngonna\nrok\n\n\ncotone biologico\norganisch katoen\n\n\ncotone organico\norganisch katoen\n\n\naccessori\naccessoires\n\n\nsciarpa\nsjaal\n\n\n\n\n\n\n\n\n\nDiverse\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nusato\ngebruikt\n\n\noggestistica\nvoorwerpen\n\n\nattività\nactiviteit\n\n\ndistributore\ndistributeur\n\n\ncommessa\nklerk\n\n\ngrandi magazzini\nwarenhuizen\n\n\nscontato\nafgesprijsd\n\n\napprendista\nleerling\n\n\ncliente\nklant\n\n\nabbigliamento\nkleding\n\n\nriciclato\ngerecycled\n\n\nfornitore\nleverancier\n\n\nacrilico\nacryl\n\n\nsu entra\nga naar binnen\n\n\nnegozio\nwinkel\n\n\nnegoziante\nwinkelier\n\n\npelleteria\nlederwaren\n\n\nnegozio di scarpe\nschoenenwinkel\n\n\necosostenibile\nmilieuvriendelijk"
+    "text": "Deze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\nJe kan de presentatie downloaden.\nWekelijks wordt de inhoud aangepast met andere zinnen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReeks 1\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
