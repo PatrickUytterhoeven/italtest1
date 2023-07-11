@@ -6,6 +6,7 @@
   {
     "listing": "/grammatica.html",
     "items": [
+      "/post_gramm/pocomoltotroppo/pmt.html",
       "/post_gramm/plurale/grammatica2.html",
       "/post_gramm/questo/questo1.html",
       "/post_gramm/verbi3/imperfetto.html",
@@ -27,7 +28,8 @@
   {
     "listing": "/zinnen.html",
     "items": [
-      "/post_zinnen/reeks1/reeks1.html"
+      "/post_zinnen/reeks1/reeks1.html",
+      "/post_zinnen/reeks2/reeks2.html"
     ]
   }
 ]

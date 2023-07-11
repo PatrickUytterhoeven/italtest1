@@ -12,12 +12,12 @@ format:
     number-sections: false
 editor: visual
 ---
+
 # DA
 
 ```{r echo=FALSE, out.width='50%'}
 knitr::include_graphics('da.png')
 ```
-
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 library(tidyverse)
@@ -28,8 +28,6 @@ library(writexl)
 library(kableExtra)
 
 ```
-
-
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 prep1<-read_xlsx("preparticolate.xlsx",1)
@@ -65,7 +63,6 @@ kable(prepda, caption = " ") %>%
 knitr::include_graphics('al.png')
 ```
 
-
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 prepda<-prep1%>%filter(preposizione=="al")
 ```
@@ -75,14 +72,11 @@ kable(prepda, caption = " ") %>%
   kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
 ```
 
-
 # IN
-
 
 ```{r echo=FALSE, out.width='50%'}
 knitr::include_graphics('in.png')
 ```
-
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 prepda<-prep1%>%filter(preposizione=="in")
@@ -95,11 +89,9 @@ kable(prepda, caption = " ") %>%
 
 # SU
 
-
 ```{r echo=FALSE, out.width='50%'}
 knitr::include_graphics('su.png')
 ```
-
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 prepda<-prep1%>%filter(preposizione=="su")

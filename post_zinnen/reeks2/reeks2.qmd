@@ -1,0 +1,137 @@
+---
+title: "Reeks 2"
+author: "Patrick Uytterhoeven"
+image: IMG_2146_3.JPG
+format:
+  revealjs: 
+    theme: default
+    incremental: true 
+---
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab1<-read_xlsx("pmt1.xlsx",1)
+```
+
+##  1
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+
+
+
+## 2
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+
+## 3
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+
+## 4
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+## 5
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+
+:::
+:::
+:::
+## 6
+
+
+::: incremental
+::: {style="color: #00000"}
+::: {style="font-family: Ink Free"}
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
+
+```
+
+-   `r I(choice1[,2])`
+-   `r I(choice1[,1])`
+- [terug naar hoofdpagina](https://patrickuytterhoeven.github.io/italtest1/)
+:::
+:::
+:::

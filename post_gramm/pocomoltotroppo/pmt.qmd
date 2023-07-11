@@ -1,0 +1,55 @@
+---
+title: "Poco Molto Troppo"
+author: "Patrick Uytterhoeven"
+date: "2023-07-08"
+categories: [bijwoorden, bijvoeglijke naamwoorden]
+image: IMG_3024_bonnard.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+
+# Molto, poco, troppo
+
+Molto, poco, troppo kunnen bijwoorden of bijvoeglijke naamwoorden zijn. Als ze bijvoeglijke naamwoorden zijn verandert het geslacht. Als bijwoord blijven ze onveranderd.
+
+Ik heb hieronder gebruik gemaakt van voorbeeldzinnen uit de (degelijke) website [italiano bello](https://italiano-bello.com/en/italian-grammar/).
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('pmt.png')
+```
+
+# Voorbeeldzinnen
+
+
+Hieronder staan diverse voorbeeldzinnen met molto, poco, troppo.  Je kan deze inoefenen bij de rubriek *zinnen oefenen*.
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+data1<-read_xlsx("pmt1.xlsx",1)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(data1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
