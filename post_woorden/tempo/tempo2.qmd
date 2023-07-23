@@ -1,0 +1,47 @@
+---
+title: "Tempo atmosferico2"
+author: "Patrick Uytterhoeven"
+date: "2023-07-23"
+categories: [weer]
+image: IMG_2926canaletto.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+## Het weer
+
+Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:[wijsma](https://italiaans.andrieswijma.nl/) en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd. 
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab1<-read_xlsx("tempo1.xlsx",1)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab2 <- vocab1[sample(nrow(vocab1)),]
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(vocab2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```

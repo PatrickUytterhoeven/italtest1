@@ -1,12 +1,15 @@
 ---
 title: "Tempo atmosferico"
 author: "Patrick Uytterhoeven"
+date: "2023-07-23"
+categories: [weer]
 image: IMG_2926canaletto.JPG
 format:
   revealjs: 
     theme: simple
     incremental: true 
 ---
+
 In deze post vind je als oefening woorden terug over het weer. Wekelijks verandert de inhoud. Na elke enter verschijnt een Nederlands woord en vervolgens de vertaling.
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
@@ -184,9 +187,6 @@ choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
 
 -   `r I(choice1[,2])`
 -   `r I(choice1[,1])`
-
-
-
 :::
 :::
 :::
