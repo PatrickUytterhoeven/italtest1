@@ -4,8 +4,15 @@
     "items": []
   },
   {
+    "listing": "/cursus.html",
+    "items": [
+      "/post_cursus/cursustekst.html"
+    ]
+  },
+  {
     "listing": "/grammatica.html",
     "items": [
+      "/post_gramm/passato_prossimo/passatoprossimo.html",
       "/post_gramm/pocomoltotroppo/pmt.html",
       "/post_gramm/plurale/grammatica2.html",
       "/post_gramm/questo/questo1.html",

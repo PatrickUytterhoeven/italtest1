@@ -14,11 +14,18 @@
     "text": "No matching items"
   },
   {
+    "objectID": "cursus.html",
+    "href": "cursus.html",
+    "title": "Cursus",
+    "section": "",
+    "text": "De posts van deze website worden hier thematisch verzameld in een cursustekst. Op het moment van dit schrijven ben ik nog in beginfaze. Geleidelijk wordt deze cursus opgebouwd met thema’s als werkwoorden, zelfstandige naamwoorden, adjectieven, bijwoorden, voorzetsels,…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCursus Italiaans\n\n\n4 min\n\n\n\ncursus\n\n\n\n\n\n\n\nAug 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "grammatica.html",
     "href": "grammatica.html",
     "title": "Grammatica",
     "section": "",
-    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoco Molto Troppo\n\n\n1 min\n\n\n\nbijwoorden\n\n\nbijvoeglijke naamwoorden\n\n\n\n\n\n\n\nJul 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl plurale dei sostantivi, aggettivi, articoli\n\n\n1 min\n\n\n\nmeervoud\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuesto - Questa\n\n\n1 min\n\n\n\npronome\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreposizione articolati\n\n\n1 min\n\n\n\nvoorzetsels\n\n\n\n\n\n\n\nApr 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n3 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n1 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPassato Prossimo\n\n\n1 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nAug 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoco Molto Troppo\n\n\n1 min\n\n\n\nbijwoorden\n\n\nbijvoeglijke naamwoorden\n\n\n\n\n\n\n\nJul 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl plurale dei sostantivi, aggettivi, articoli\n\n\n1 min\n\n\n\nmeervoud\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuesto - Questa\n\n\n1 min\n\n\n\npronome\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nMay 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreposizione articolati\n\n\n1 min\n\n\n\nvoorzetsels\n\n\n\n\n\n\n\nApr 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n3 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n1 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -26,6 +33,90 @@
     "title": "Italiaans studeren",
     "section": "",
     "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!\nDaar is een schitterende uitzondering op, de website van andries wijma\nhttps://italiaans.andrieswijma.nl/\nEen echte aanrader. Ik ben zo vrij om de bestanden deels te gebruiken in het blad woordenschat."
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html",
+    "href": "post_cursus/cursustekst.html",
+    "title": "Cursus Italiaans",
+    "section": "",
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmoeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDe passato prossimo wordt gebruikt om te vertellen over handelingen in het verleden. Hij heeft betrekking op afgesloten gebeurtenissen uit het verleden. Hij wordt gevormd door een hulpwerkwoord (avere of essere) gevolgd door het voltooid deelwoord.\nBij gebruik van avere wordt het voltooid deelwoord niet vervoegd. Bij gebruik van essere wordt het voltooid deelwoord vervoegd naar geslacht en aantal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoorbeeldzinnen passato prossimo\n\n\nitaliaans\nnederlands\n\n\n\n\nÈ morto per qualcosa che ha mangiato.\nHij stierf aan iets dat hij at.\n\n\nMaria ha prenotato una camera.\nMaria heeft een kamer geboekt.\n\n\nHanno visto un film di Fellini\nZe hebben een Fellini-film gezien\n\n\nil prezzo della frutta è ribassato di oltre il 20%\nde prijs van fruit wordt met meer dan 20% verlaagd\n\n\nL’estate scorsa ho visitato Napoli.\nAfgelopen zomer bezocht ik Napels.\n\n\nMarco ha mangiato la mela\nMarco at de appel op\n\n\nIeri abbiamo mangiato la lasagna. \nGisteren aten we lasagne.\n\n\nPer un attimo ho creduto saremmo morti.\nEven dacht ik dat we dood gingen.\n\n\nIeri sono andato al lavoro in bicicletta.\nGisteren fietste ik naar mijn werk.\n\n\nStamattina mi sono svegliata alle sette.\nVanmorgen werd ik om zeven uur wakker.\n\n\nHo mangiato una pizza.\nIk heb een pizza gegeten.\n\n\nil supermercato qui vicino ha ribassato i prezzi\nde nabijgelegen supermarkt heeft zijn prijzen verlaagd\n\n\nDevi vedere il panino che ha mangiato ieri.\nJe moet de boterham zien die hij gisteren at.\n\n\nNon gli ho creduto su nulla.\nIk geloofde hem nergens over.\n\n\nPoi nel pomeriggio siamo partiti per gli Stati Uniti.\nToen vertrokken we in de middag naar de Verenigde Staten.\n\n\n\n\n\n\n\n\n\n\nMeerdere werkwoorden hebben een onregelmatig deelwoord. De belangrijkste zijn:\n\n\n\nOnregelmatige deelwoorden\n\n\nItaliaans\nDeelwoord\n\n\n\n\nspegnere\nspento\n\n\nvenire\nvenuto\n\n\ndire\ndetto\n\n\ndiscutere\ndiscusso\n\n\nperdere\nperso\n\n\ndecidere\ndeciso\n\n\nrimanere\nrimasto\n\n\nvivere\nvissuto\n\n\nchiedere\nchiesto\n\n\ndividere\ndiviso\n\n\nnascere\nnato\n\n\nfare\nfatto\n\n\nscegliere\nscelto\n\n\nbere\nbevuto\n\n\nsoffrire\nsofferto\n\n\noffendere\noffeso\n\n\nscendere\nsceso\n\n\naccendere\nacceso\n\n\nmettere\nmesso\n\n\nleggere\nletto\n\n\nstare\nstato\n\n\nridere\nriso\n\n\npiangere\npianto\n\n\ntradurre\ntradotto\n\n\ncuocere\ncotto\n\n\nscrivere\nscritto\n\n\nvincere\nvinto\n\n\nrispondere\nrisposto\n\n\nvedere\nvisto\n\n\nchiudere\nchiuso\n\n\nmorire\nmorto\n\n\ncorrere\ncorso\n\n\nrompere\nrotto\n\n\naprire\naperto\n\n\nprendere\npreso"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#tegenwoordige-tijd-presente",
+    "href": "post_cursus/cursustekst.html#tegenwoordige-tijd-presente",
+    "title": "Cursus Italiaans",
+    "section": "",
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmoeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#hoofdtelwoorden-van-1-tot-20",
+    "href": "post_cursus/cursustekst.html#hoofdtelwoorden-van-1-tot-20",
+    "title": "Cursus Italiaans",
+    "section": "2.1 Hoofdtelwoorden van 1 tot 20",
+    "text": "2.1 Hoofdtelwoorden van 1 tot 20\n\n\n\n\n\ngetal\nitaliaans\n\n\n\n\n1\nuno\n\n\n2\ndue\n\n\n3\ntre\n\n\n4\nquattro\n\n\n5\ncinque\n\n\n6\nsei\n\n\n7\nsette\n\n\n8\notto\n\n\n9\nnove\n\n\n10\ndieci\n\n\n11\nundici\n\n\n12\ndodici\n\n\n13\ntredici\n\n\n14\nquattordici\n\n\n15\nquindici\n\n\n16\nsedici\n\n\n17\ndiciassette\n\n\n18\ndiciotto\n\n\n19\ndiciannove\n\n\n20\nventi"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#tientallen",
+    "href": "post_cursus/cursustekst.html#tientallen",
+    "title": "Cursus Italiaans",
+    "section": "2.2 Tientallen",
+    "text": "2.2 Tientallen\n\n\n\n\n\ngetal\nitaliaans\n\n\n\n\n10\ndieci\n\n\n20\nventi\n\n\n30\ntrenta\n\n\n40\nquaranta\n\n\n50\ncinquanta\n\n\n60\nsessanta\n\n\n70\nsettanta\n\n\n80\nottanta\n\n\n90\nnovanta"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#en-meer",
+    "href": "post_cursus/cursustekst.html#en-meer",
+    "title": "Cursus Italiaans",
+    "section": "2.3 100 en meer",
+    "text": "2.3 100 en meer\n\n\n\n\n\ngetal\nitaliaans\nmv\n\n\n\n\n100\ncento\ncento\n\n\n1000\nmille\nmilla\n\n\n1000000\nmilione\nmilioni"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#rangtelwoorden",
+    "href": "post_cursus/cursustekst.html#rangtelwoorden",
+    "title": "Cursus Italiaans",
+    "section": "2.4 Rangtelwoorden",
+    "text": "2.4 Rangtelwoorden\n\n\n\nrangtelwoorden\n\n\ngetal\nitaliaans\n\n\n\n\n1e\nprimo\n\n\n2e\nsecondo\n\n\n3e\nterzo\n\n\n4e\nquarto\n\n\n5e\nquinto\n\n\n6e\nsesto\n\n\n7e\nsettimo\n\n\n8e\nottavo\n\n\n9e\nnono\n\n\n10e\ndecimo\n\n\n11e\nundicesimo\n\n\n12e\ndodicesimo\n\n\n13e\ntredicesimo"
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html",
+    "title": "Passato Prossimo",
+    "section": "",
+    "text": "De passato prossimo wordt gebruikt om te vertellen over handelingen in het verleden. Hij heeft betrekking op afgesloten gebeurtenissen uit het verleden. Hij wordt gevormd door een hulpwerkwoord (avere of essere) gevolgd door het voltooid deelwoord.\nBij gebruik van avere wordt het voltooid deelwoord niet vervoegd. Bij gebruik van essere wordt het voltooid deelwoord vervoegd naar geslacht en aantal"
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html#gebruik",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html#gebruik",
+    "title": "Passato Prossimo",
+    "section": "",
+    "text": "De passato prossimo wordt gebruikt om te vertellen over handelingen in het verleden. Hij heeft betrekking op afgesloten gebeurtenissen uit het verleden. Hij wordt gevormd door een hulpwerkwoord (avere of essere) gevolgd door het voltooid deelwoord.\nBij gebruik van avere wordt het voltooid deelwoord niet vervoegd. Bij gebruik van essere wordt het voltooid deelwoord vervoegd naar geslacht en aantal"
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html#hulpwerkwoord-avere",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html#hulpwerkwoord-avere",
+    "title": "Passato Prossimo",
+    "section": "Hulpwerkwoord avere",
+    "text": "Hulpwerkwoord avere"
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html#hulpwerkwoord-essere",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html#hulpwerkwoord-essere",
+    "title": "Passato Prossimo",
+    "section": "Hulpwerkwoord essere",
+    "text": "Hulpwerkwoord essere"
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html#voorbeeldzinnen",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html#voorbeeldzinnen",
+    "title": "Passato Prossimo",
+    "section": "Voorbeeldzinnen",
+    "text": "Voorbeeldzinnen\n\n\n\nVoorbeeldzinnen passato prossimo\n\n\nitaliaans\nnederlands\n\n\n\n\nÈ morto per qualcosa che ha mangiato.\nHij stierf aan iets dat hij at.\n\n\nMaria ha prenotato una camera.\nMaria heeft een kamer geboekt.\n\n\nHanno visto un film di Fellini\nZe hebben een Fellini-film gezien\n\n\nil prezzo della frutta è ribassato di oltre il 20%\nde prijs van fruit wordt met meer dan 20% verlaagd\n\n\nL’estate scorsa ho visitato Napoli.\nAfgelopen zomer bezocht ik Napels.\n\n\nMarco ha mangiato la mela\nMarco at de appel op\n\n\nIeri abbiamo mangiato la lasagna. \nGisteren aten we lasagne.\n\n\nPer un attimo ho creduto saremmo morti.\nEven dacht ik dat we dood gingen.\n\n\nIeri sono andato al lavoro in bicicletta.\nGisteren fietste ik naar mijn werk.\n\n\nStamattina mi sono svegliata alle sette.\nVanmorgen werd ik om zeven uur wakker.\n\n\nHo mangiato una pizza.\nIk heb een pizza gegeten.\n\n\nil supermercato qui vicino ha ribassato i prezzi\nde nabijgelegen supermarkt heeft zijn prijzen verlaagd\n\n\nDevi vedere il panino che ha mangiato ieri.\nJe moet de boterham zien die hij gisteren at.\n\n\nNon gli ho creduto su nulla.\nIk geloofde hem nergens over.\n\n\nPoi nel pomeriggio siamo partiti per gli Stati Uniti.\nToen vertrokken we in de middag naar de Verenigde Staten."
+  },
+  {
+    "objectID": "post_gramm/passato_prossimo/passatoprossimo.html#onregelmatig-voltooid-deelwoord",
+    "href": "post_gramm/passato_prossimo/passatoprossimo.html#onregelmatig-voltooid-deelwoord",
+    "title": "Passato Prossimo",
+    "section": "Onregelmatig voltooid deelwoord",
+    "text": "Onregelmatig voltooid deelwoord\nMeerdere werkwoorden hebben een onregelmatig deelwoord. De belangrijkste zijn:\n\n\n\nOnregelmatige deelwoorden\n\n\nItaliaans\nDeelwoord\n\n\n\n\nspegnere\nspento\n\n\nvenire\nvenuto\n\n\ndire\ndetto\n\n\ndiscutere\ndiscusso\n\n\nperdere\nperso\n\n\ndecidere\ndeciso\n\n\nrimanere\nrimasto\n\n\nvivere\nvissuto\n\n\nchiedere\nchiesto\n\n\ndividere\ndiviso\n\n\nnascere\nnato\n\n\nfare\nfatto\n\n\nscegliere\nscelto\n\n\nbere\nbevuto\n\n\nsoffrire\nsofferto\n\n\noffendere\noffeso\n\n\nscendere\nsceso\n\n\naccendere\nacceso\n\n\nmettere\nmesso\n\n\nleggere\nletto\n\n\nstare\nstato\n\n\nridere\nriso\n\n\npiangere\npianto\n\n\ntradurre\ntradotto\n\n\ncuocere\ncotto\n\n\nscrivere\nscritto\n\n\nvincere\nvinto\n\n\nrispondere\nrisposto\n\n\nvedere\nvisto\n\n\nchiudere\nchiuso\n\n\nmorire\nmorto\n\n\ncorrere\ncorso\n\n\nrompere\nrotto\n\n\naprire\naperto\n\n\nprendere\npreso"
   },
   {
     "objectID": "post_gramm/plurale/grammatica2.html",
@@ -102,35 +193,35 @@
     "href": "post_gramm/questo/questo1.html#esempi-1",
     "title": "Questo - Questa",
     "section": "Esempi 1",
-    "text": "Esempi 1\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nCerto che posso fare questo lavoro.\nNatuurlijk kan ik dit werk doen.\n\n\nQuando cominciai questo lavoro, pensavo sarebbe stato emozionante.\nToen ik aan deze baan begon, dacht ik dat het spannend zou zijn.\n\n\nHo rischiato per farti ottenere questo lavoro.\nIk heb het risico genomen om je deze baan te bezorgen.\n\n\nMia moglie vuole che lasci questo lavoro.\nMijn vrouw wil dat ik deze baan opzeg.\n\n\nDetto questo, riconosco che questi lavori dovrebbero essere più accessibili.\nDat gezegd hebbende, erken ik dat deze banen toegankelijker moeten zijn."
+    "text": "Esempi 1\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nMetà di questo lavoro è fortuna.\nDe helft van dit werk is geluk.\n\n\nAbbiamo rischiato tutto per fare questo lavoro.\nWe riskeerden alles om dit werk te doen.\n\n\nHo rischiato per farti ottenere questo lavoro.\nIk heb het risico genomen om je deze baan te bezorgen.\n\n\nSenza questo lavoro, l'umanità sarà inerme.\nZonder dit werk zal de mensheid hulpeloos zijn.\n\n\nAccettare questo lavoro significa rifiutare tutte le altre possibilità.\nDeze baan accepteren betekent alle andere mogelijkheden afwijzen."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-2",
     "href": "post_gramm/questo/questo1.html#esempi-2",
     "title": "Questo - Questa",
     "section": "Esempi 2",
-    "text": "Esempi 2\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon potrete lasciare questa casa senza essere osservato.\nU kunt dit huis niet verlaten zonder geobserveerd te worden.\n\n\nDevo sbarazzarmi di questa casa.\nIk moet van dit huis af.\n\n\nHo costruire questa casa per mia figlia.\nIk bouw dit huis voor mijn dochter.\n\n\nNon capisco perché vuoi vedere questa casa.\nIk begrijp niet waarom je dit huis wilt zien.\n\n\nSo che vuole comprare questa casa.\nIk weet dat je dit huis wilt kopen."
+    "text": "Esempi 2\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nNon potrete lasciare questa casa senza essere osservato.\nU kunt dit huis niet verlaten zonder geobserveerd te worden.\n\n\nSo che vuole comprare questa casa.\nIk weet dat je dit huis wilt kopen.\n\n\nNon capisco perché vuoi vedere questa casa.\nIk begrijp niet waarom je dit huis wilt zien.\n\n\nNon comprerò questa casa con te.\nIk koop dit huis niet met jou.\n\n\nHo costruire questa casa per mia figlia.\nIk bouw dit huis voor mijn dochter."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-3",
     "href": "post_gramm/questo/questo1.html#esempi-3",
     "title": "Questo - Questa",
     "section": "Esempi 3",
-    "text": "Esempi 3\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nEinstein era legato a quest'idea.\nEinstein was gehecht aan dit idee.\n\n\nNon posso credere che stiamo davvero considerando quest'idea.\nIk kan niet geloven dat we dit idee overwegen.\n\n\nNon avrei dovuto metterti quest'idea in testa.\nIk had dat idee niet in je hoofd moeten steken.\n\n\nMentre accade tutto ciò, stiamo diffondendo quest'idea nel mondo.\nTerwijl dit allemaal gebeurt, verspreiden we dit idee over de hele wereld.\n\n\nPuoi levarti pure quest'idea dalla testa.\nDat idee kun je ook uit je hoofd krijgen."
+    "text": "Esempi 3\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nPuoi levarti pure quest'idea dalla testa.\nDat idee kun je ook uit je hoofd krijgen.\n\n\nHo avuto quest'idea un giorno mentre andavo in autobus al lavoro.\nOp een dag kreeg ik dit idee tijdens mijn busrit naar mijn werk.\n\n\nMentre accade tutto ciò, stiamo diffondendo quest'idea nel mondo.\nTerwijl dit allemaal gebeurt, verspreiden we dit idee over de hele wereld.\n\n\nNon posso credere che stiamo davvero considerando quest'idea.\nIk kan niet geloven dat we dit idee overwegen.\n\n\nNon avrei dovuto metterti quest'idea in testa.\nIk had dat idee niet in je hoofd moeten steken."
   },
   {
     "objectID": "post_gramm/questo/questo1.html#esempi-4",
     "href": "post_gramm/questo/questo1.html#esempi-4",
     "title": "Questo - Questa",
     "section": "Esempi 4",
-    "text": "Esempi 4\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nTutte queste idee sono già sulla carta.\nAl deze ideeën staan ​​al op papier.\n\n\nDobbiamo liberare noi stessi da alcune di queste idee.\nWe moeten ons van sommige van deze ideeën bevrijden.\n\n\nSono interessata a queste idee di ripetizione.\nIk ben geïnteresseerd in deze ideeën van herhaling.\n\n\nSe siete interessati a queste idee, visitate questo sito.\nAls u geïnteresseerd bent in deze ideeën, bezoek dan deze site.\n\n\nGli architetti stanno pensando a queste idee da molto tempo.\nArchitecten hebben lang over deze ideeën nagedacht."
+    "text": "Esempi 4\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nCome possiamo aiutarti a diffondere queste idee?\nHoe kunnen we u helpen deze ideeën te verspreiden?\n\n\nSono interessata a queste idee di ripetizione.\nIk ben geïnteresseerd in deze ideeën van herhaling.\n\n\nTutte queste idee sono già sulla carta.\nAl deze ideeën staan ​​al op papier.\n\n\nSe siete interessati a queste idee, visitate questo sito.\nAls u geïnteresseerd bent in deze ideeën, bezoek dan deze site.\n\n\nBen poche di queste idee si sono tradotte in realtà.\nZeer weinig van deze ideeën zijn in werkelijkheid vertaald."
   },
   {
     "objectID": "post_gramm/verbi1/grammatica1.html",
     "href": "post_gramm/verbi1/grammatica1.html",
     "title": "Verbi",
     "section": "",
-    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmoeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono"
+    "text": "spreken\n\n\n\n\nparlare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nparlo\n\n\nPresente\ntu\nparli\n\n\nPresente\nlui, lei, Lei\nparla\n\n\nPresente\nnoi\nparliamo\n\n\nPresente\nvoi\nparlate\n\n\nPresente\nloro, Loro\nparlano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlachen\n\n\n\n\nridere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nrido\n\n\nPresente\ntu\nridi\n\n\nPresente\nlui, lei, Lei\nride\n\n\nPresente\nnoi\nridiamo\n\n\nPresente\nvoi\nridete\n\n\nPresente\nloro, Loro\nridono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhoren\n\n\n\n\nsentire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsento\n\n\nPresente\ntu\nsenti\n\n\nPresente\nlui, lei, Lei\nsente\n\n\nPresente\nnoi\nsentiamo\n\n\nPresente\nvoi\nsentite\n\n\nPresente\nloro, Loro\nsentono\n\n\n\n\n\n\n\n\n\n\n\n\nverkiezen\n\n\n\n\npreferire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\npreferisco\n\n\nPresente\ntu\npreferisci\n\n\nPresente\nlui, lei, Lei\npreferisce\n\n\nPresente\nnoi\npreferiamo\n\n\nPresente\nvoi\npreferite\n\n\nPresente\nloro, Loro\npreferiscono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nzijn\n\n\n\n\nessere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nsono\n\n\nPresente\ntu\nsei\n\n\nPresente\nlui, lei, Lei\nè\n\n\nPresente\nnoi\nsiamo\n\n\nPresente\nvoi\nsiete\n\n\nPresente\nloro, Loro\nsono\n\n\n\n\n\n\n\n\n\n\n\n\nhebben\n\n\n\n\navere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nho\n\n\nPresente\ntu\nhai\n\n\nPresente\nlui, lei, Lei\nha\n\n\nPresente\nnoi\nabbiamo\n\n\nPresente\nvoi\navete\n\n\nPresente\nloro, Loro\nhanno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngaan\n\n\n\n\nandare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvado, vo\n\n\nPresente\ntu\nvai\n\n\nPresente\nlui, lei, Lei\nva\n\n\nPresente\nnoi\nandiamo\n\n\nPresente\nvoi\nandate\n\n\nPresente\nloro, Loro\nvanno\n\n\n\n\n\n\n\n\n\n\n\n\ngeven\n\n\n\n\ndare\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndo\n\n\nPresente\ntu\ndai\n\n\nPresente\nlui, lei, Lei\ndà\n\n\nPresente\nnoi\ndiamo\n\n\nPresente\nvoi\ndate\n\n\nPresente\nloro, Loro\ndanno\n\n\n\n\n\n\n\n\n\n\n\n\ndrinken\n\n\n\n\nbere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nbevo\n\n\nPresente\ntu\nbevi\n\n\nPresente\nlui, lei, Lei\nbeve\n\n\nPresente\nnoi\nbeviamo\n\n\nPresente\nvoi\nbevete\n\n\nPresente\nloro, Loro\nbevono\n\n\n\n\n\n\n\n\n\n\n\n\nzeggen\n\n\n\n\ndire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndico\n\n\nPresente\ntu\ndici\n\n\nPresente\nlui, lei, Lei\ndice\n\n\nPresente\nnoi\ndiciamo\n\n\nPresente\nvoi\ndite\n\n\nPresente\nloro, Loro\ndicono\n\n\n\n\n\n\n\n\n\n\n\n\nhouden\n\n\n\n\ntenere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ntengo\n\n\nPresente\ntu\ntieni\n\n\nPresente\nlui, lei, Lei\ntiene\n\n\nPresente\nnoi\nteniamo\n\n\nPresente\nvoi\ntenete\n\n\nPresente\nloro, Loro\ntengono\n\n\n\n\n\n\n\n\n\n\n\n\nuitgaan\n\n\n\n\nuscire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nesco\n\n\nPresente\ntu\nesci\n\n\nPresente\nlui, lei, Lei\nesce\n\n\nPresente\nnoi\nusciamo\n\n\nPresente\nvoi\nuscite\n\n\nPresente\nloro, Loro\nescono\n\n\n\n\n\n\n\n\n\n\n\n\nkomen\n\n\n\n\nvenire\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvengo\n\n\nPresente\ntu\nvieni\n\n\nPresente\nlui, lei, Lei\nviene\n\n\nPresente\nnoi\nveniamo\n\n\nPresente\nvoi\nvenite\n\n\nPresente\nloro, Loro\nvengono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmoeten\n\n\n\n\ndovere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\ndevo, debbo\n\n\nPresente\ntu\ndevi\n\n\nPresente\nlui, lei, Lei\ndeve\n\n\nPresente\nnoi\ndobbiamo\n\n\nPresente\nvoi\ndovete\n\n\nPresente\nloro, Loro\ndevono, debbono\n\n\n\n\n\n\n\n\n\n\n\n\nkunnen\n\n\n\n\npotere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nposso\n\n\nPresente\ntu\npuoi\n\n\nPresente\nlui, lei, Lei\npuò\n\n\nPresente\nnoi\npossiamo\n\n\nPresente\nvoi\npotete\n\n\nPresente\nloro, Loro\npossono\n\n\n\n\n\n\n\n\n\n\n\n\nweten, kunnen\n\n\n\n\nsapere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nso\n\n\nPresente\ntu\nsai\n\n\nPresente\nlui, lei, Lei\nsa\n\n\nPresente\nnoi\nsappiamo\n\n\nPresente\nvoi\nsapete\n\n\nPresente\nloro, Loro\nsanno\n\n\n\n\n\n\n\n\n\n\n\n\nwillen\n\n\n\n\nvolere\n\n\n\n\n\n\n\n\n\n\n\n\nmodus\nvnw\nvervoeging\n\n\n\n\nPresente\nio\nvoglio\n\n\nPresente\ntu\nvuoi\n\n\nPresente\nlui, lei, Lei\nvuole\n\n\nPresente\nnoi\nvogliamo\n\n\nPresente\nvoi\nvolete\n\n\nPresente\nloro, Loro\nvogliono"
   },
   {
     "objectID": "post_gramm/verbi1/grammatica1.html#a---vervoeging",
@@ -242,35 +333,35 @@
     "href": "post_woorden/cibo/cibo.html#section",
     "title": "Cibo e bevande",
     "section": "1",
-    "text": "1\n\n\n\n\ncitroen\nlimone (m)"
+    "text": "1\n\n\n\n\nvis\npesce (m)"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-1",
     "href": "post_woorden/cibo/cibo.html#section-1",
     "title": "Cibo e bevande",
     "section": "2",
-    "text": "2\n\n\n\n\ndruif\nuva"
+    "text": "2\n\n\n\n\nkoffie\ncaffè (m)"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-2",
     "href": "post_woorden/cibo/cibo.html#section-2",
     "title": "Cibo e bevande",
     "section": "3",
-    "text": "3\n\n\n\n\npeer\npera"
+    "text": "3\n\n\n\n\npizza\npizza"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-3",
     "href": "post_woorden/cibo/cibo.html#section-3",
     "title": "Cibo e bevande",
     "section": "4",
-    "text": "4\n\n\n\n\nbiologisch voedingsmiddel\nalimento biologico"
+    "text": "4\n\n\n\n\nworst\nsalsiccia"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-4",
     "href": "post_woorden/cibo/cibo.html#section-4",
     "title": "Cibo e bevande",
     "section": "5",
-    "text": "5\n\n\n\n\ndrinken\nbevanda"
+    "text": "5\n\n\n\n\ncitroen\nlimone (m)"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-5",
@@ -284,28 +375,28 @@
     "href": "post_woorden/cibo/cibo.html#section-6",
     "title": "Cibo e bevande",
     "section": "7",
-    "text": "7\n\n\n\n\npasta\npasta"
+    "text": "7\n\n\n\n\nkiwi\nkiwi (m)"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-7",
     "href": "post_woorden/cibo/cibo.html#section-7",
     "title": "Cibo e bevande",
     "section": "8",
-    "text": "8\n\n\n\n\nthee\ntè (m)"
+    "text": "8\n\n\n\n\npasta\npasta"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-8",
     "href": "post_woorden/cibo/cibo.html#section-8",
     "title": "Cibo e bevande",
     "section": "9",
-    "text": "9\n\n\n\n\nzuur\nacido"
+    "text": "9\n\n\n\n\nbitter\namaro"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-9",
     "href": "post_woorden/cibo/cibo.html#section-9",
     "title": "Cibo e bevande",
     "section": "10",
-    "text": "10\n\n\n\n\nbier\nbirra"
+    "text": "10\n\n\n\n\nzout [smaak]\nsalato"
   },
   {
     "objectID": "post_woorden/cibo/cibo.html#section-10",
@@ -319,7 +410,7 @@
     "href": "post_woorden/negozi/negozi1.html",
     "title": "Negozi",
     "section": "",
-    "text": "Winkelen\nIn dit hoofdstuk worden woorden, zinnen en uitdrukkingen bij elkaar gebracht die verband houden met winkelen\n\n\nWerkwoorden\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\ncomprare\nkopen\n\n\nordinare\nin orde brengen\n\n\nrestituire\nretourneren\n\n\nvedere\nzien\n\n\ncambiare\nwijzigen\n\n\nindossare\ndragen\n\n\nprovare\nproberen\n\n\npreferire\nde voorkeur geven aan\n\n\nvendere\nverkopen\n\n\ndesiderare\nwensen\n\n\nscontare\nkorting geven\n\n\npagare\nbetalen\n\n\n\n\n\n\n\n\n\nKleuren\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nazzuro\nhemelsblauw\n\n\nrosso\nrood\n\n\ngrigio\ngrijs\n\n\nceleste\nhemels\n\n\nbianco\nwit\n\n\nnero\nzwart\n\n\nrosa\nroos\n\n\nverde\ngroen\n\n\nblu\nblauw\n\n\nmarrone\nbruin\n\n\n\n\n\n\n\n\n\nKleding\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nmaglietta\nt-shirt\n\n\ncotone\nkatoen\n\n\nseta\nzijde\n\n\ncappello\nhoed\n\n\nmaglione\ntrui\n\n\nguanti\nhandschoenen\n\n\nvestito\njurk\n\n\nabiti\nkleren\n\n\ncotone biologico\norganisch katoen\n\n\nscarpe\nschoenen\n\n\nlino\nlinnen\n\n\ntessuti\nstoffen\n\n\nborsa\ntas\n\n\ncintura\nriem\n\n\nimpermeabile\nregenjas\n\n\ngonna\nrok\n\n\nocchiali\nbril\n\n\nmaglia\ntrui\n\n\npantaloni\nbroek\n\n\ncotone organico\norganisch katoen\n\n\ncappotto\njas\n\n\naccessori\naccessoires\n\n\nsciarpa\nsjaal\n\n\ngiacca\njasje\n\n\nscialle\nsjaal\n\n\n\n\n\n\n\n\n\nDiverse\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nsu entra\nga naar binnen\n\n\nnegozio di scarpe\nschoenenwinkel\n\n\nabbigliamento\nkleding\n\n\noggestistica\nvoorwerpen\n\n\nattività\nactiviteit\n\n\napprendista\nleerling\n\n\npelleteria\nlederwaren\n\n\ngrandi magazzini\nwarenhuizen\n\n\ndistributore\ndistributeur\n\n\nnegoziante\nwinkelier\n\n\ncliente\nklant\n\n\nriciclato\ngerecycled\n\n\nusato\ngebruikt\n\n\nscontato\nafgesprijsd\n\n\necosostenibile\nmilieuvriendelijk\n\n\ncommessa\nklerk\n\n\nfornitore\nleverancier\n\n\nacrilico\nacryl\n\n\nnegozio\nwinkel"
+    "text": "Winkelen\nIn dit hoofdstuk worden woorden, zinnen en uitdrukkingen bij elkaar gebracht die verband houden met winkelen\n\n\nWerkwoorden\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\npagare\nbetalen\n\n\nprovare\nproberen\n\n\ndesiderare\nwensen\n\n\nordinare\nin orde brengen\n\n\ncomprare\nkopen\n\n\nscontare\nkorting geven\n\n\ncambiare\nwijzigen\n\n\nvendere\nverkopen\n\n\nrestituire\nretourneren\n\n\nindossare\ndragen\n\n\npreferire\nde voorkeur geven aan\n\n\nvedere\nzien\n\n\n\n\n\n\n\n\n\nKleuren\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nrosso\nrood\n\n\ngrigio\ngrijs\n\n\nrosa\nroos\n\n\nnero\nzwart\n\n\nbianco\nwit\n\n\nceleste\nhemels\n\n\nmarrone\nbruin\n\n\nazzuro\nhemelsblauw\n\n\nverde\ngroen\n\n\nblu\nblauw\n\n\n\n\n\n\n\n\n\nKleding\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nimpermeabile\nregenjas\n\n\ncotone\nkatoen\n\n\ncappello\nhoed\n\n\nmaglione\ntrui\n\n\ncotone organico\norganisch katoen\n\n\ntessuti\nstoffen\n\n\nocchiali\nbril\n\n\ncotone biologico\norganisch katoen\n\n\nsciarpa\nsjaal\n\n\nscarpe\nschoenen\n\n\nseta\nzijde\n\n\nlino\nlinnen\n\n\naccessori\naccessoires\n\n\ncappotto\njas\n\n\nborsa\ntas\n\n\ngiacca\njasje\n\n\ncintura\nriem\n\n\nabiti\nkleren\n\n\ngonna\nrok\n\n\nscialle\nsjaal\n\n\nmaglietta\nt-shirt\n\n\nvestito\njurk\n\n\npantaloni\nbroek\n\n\nguanti\nhandschoenen\n\n\nmaglia\ntrui\n\n\n\n\n\n\n\n\n\nDiverse\n\n\n\n\n\nitaliaans\nnederlands\n\n\n\n\nfornitore\nleverancier\n\n\nacrilico\nacryl\n\n\nnegozio\nwinkel\n\n\napprendista\nleerling\n\n\ncliente\nklant\n\n\nscontato\nafgesprijsd\n\n\ngrandi magazzini\nwarenhuizen\n\n\nsu entra\nga naar binnen\n\n\ndistributore\ndistributeur\n\n\nusato\ngebruikt\n\n\nnegozio di scarpe\nschoenenwinkel\n\n\nabbigliamento\nkleding\n\n\nattività\nactiviteit\n\n\ncommessa\nklerk\n\n\nnegoziante\nwinkelier\n\n\necosostenibile\nmilieuvriendelijk\n\n\noggestistica\nvoorwerpen\n\n\npelleteria\nlederwaren\n\n\nriciclato\ngerecycled"
   },
   {
     "objectID": "post_woorden/numeri/numeri1.html",
@@ -368,70 +459,70 @@
     "href": "post_woorden/tempo/tempo.html#section",
     "title": "Tempo atmosferico",
     "section": "1",
-    "text": "1\n\n\n\n\nHet regent.\nPiove."
+    "text": "1\n\n\n\n\nHet stormt.\nC’è la/una tempesta."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-1",
     "href": "post_woorden/tempo/tempo.html#section-1",
     "title": "Tempo atmosferico",
     "section": "2",
-    "text": "2\n\n\n\n\nHet is vochtig.\nÈ umido."
+    "text": "2\n\n\n\n\nHet onweert.\nC’è il/un temporale."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-2",
     "href": "post_woorden/tempo/tempo.html#section-2",
     "title": "Tempo atmosferico",
     "section": "3",
-    "text": "3\n\n\n\n\nregen\npioggia"
+    "text": "3\n\n\n\n\nnevel\nfoschia"
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-3",
     "href": "post_woorden/tempo/tempo.html#section-3",
     "title": "Tempo atmosferico",
     "section": "4",
-    "text": "4\n\n\n\n\nneerslag\nprecipitazione"
+    "text": "4\n\n\n\n\nwolk\nnube (f)"
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-4",
     "href": "post_woorden/tempo/tempo.html#section-4",
     "title": "Tempo atmosferico",
     "section": "5",
-    "text": "5\n\n\n\n\nwarmte, hitte\ncaldo"
+    "text": "5\n\n\n\n\nIk heb het warm.\nHo caldo."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-5",
     "href": "post_woorden/tempo/tempo.html#section-5",
     "title": "Tempo atmosferico",
     "section": "6",
-    "text": "6\n\n\n\n\nIk zweet.\nSudo."
+    "text": "6\n\n\n\n\nHet sneeuwt.\nNevica."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-6",
     "href": "post_woorden/tempo/tempo.html#section-6",
     "title": "Tempo atmosferico",
     "section": "7",
-    "text": "7\n\n\n\n\nHet regent.\nPiove."
+    "text": "7\n\n\n\n\nHet is drukkend warm.\nÈ afoso."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-7",
     "href": "post_woorden/tempo/tempo.html#section-7",
     "title": "Tempo atmosferico",
     "section": "8",
-    "text": "8\n\n\n\n\nIk zweet.\nSudo."
+    "text": "8\n\n\n\n\nHet is mistig.\nÈ nebbioso."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-8",
     "href": "post_woorden/tempo/tempo.html#section-8",
     "title": "Tempo atmosferico",
     "section": "9",
-    "text": "9\n\n\n\n\nneerslag\nprecipitazione"
+    "text": "9\n\n\n\n\nHet is slecht weer.\nFa maltempo."
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-9",
     "href": "post_woorden/tempo/tempo.html#section-9",
     "title": "Tempo atmosferico",
     "section": "10",
-    "text": "10\n\n\n\n\nwarmte, hitte\ncalore (m)"
+    "text": "10\n\n\n\n\nneerslag\nprecipitazione"
   },
   {
     "objectID": "post_woorden/tempo/tempo.html#section-10",
@@ -445,84 +536,84 @@
     "href": "post_woorden/tempo/tempo2.html",
     "title": "Tempo atmosferico2",
     "section": "",
-    "text": "Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:wijsma en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd.\n\n\n\n\n\nItaliaans\nNederlands\n\n\n\n\nC'è la/una tempesta.\nHet stormt.\n\n\ncaldo\nwarmte, hitte\n\n\nHo freddo.\nIk heb het koud.\n\n\nneve (f)\nsneeuw\n\n\nÈ nebbioso.\nHet is mistig.\n\n\nclima (m)\nklimaat\n\n\ntuono\ndonder\n\n\nPiove.\nHet regent.\n\n\nSta piovendo.\nHet is aan het regenen.\n\n\nÈ sereno.\nHet is helder (weer).\n\n\nÈ una bella giornata.\nHet is een mooie dag.\n\n\nL'umidità è alta / bassa.\nDe luchtvochtigheid is hoog/laag.\n\n\nprevisioni del tempo (f-pl)\nweersverwachting\n\n\nÈ nuvoloso.\nHet is bewolkt.\n\n\nÈ soleggiato.\nHet is zonnig.\n\n\nFa un freddo gelido.\nHet is ijzig / ijskoud.\n\n\narcobaleno\nregenboog\n\n\nSta nevicando.\nHet is aan het sneeuwen.\n\n\nÈ ventoso.\nHet is winderig.\n\n\nC'è (l')umidità.\nHet is vochtig.\n\n\nFa (molto) caldo/freddo/fresco.\nHet is (erg) warm / koud / koel.\n\n\nprecipitazione\nneerslag\n\n\nÈ umido.\nHet is vochtig.\n\n\nlampo\nbliksemflits\n\n\nFa brutto/cattivo tempo.\nHet is slecht weer.\n\n\nfulmine (m)\nbliksem(flits)\n\n\nÈ burrascoso.\nHet is stormachtig.\n\n\nHo caldo.\nIk heb het warm.\n\n\nraffica di vento\nwindstoot\n\n\ntemperatura\ntemperatuur\n\n\nNevica.\nHet sneeuwt.\n\n\nbrezza\nbries\n\n\nChe tempo fa (da te)?\nHoe is het weer (bij jou)?\n\n\ngrandine (f)\nhagel\n\n\nmaltempo\nslecht weer, noodweer\n\n\nÈ tempestoso.\nHet is stormachtig.\n\n\nSta grandinando.\nHet is aan het hagelen.\n\n\nnebbia\nmist\n\n\nIl tempo è variabile.\nHet weer is wisselvallig.\n\n\nventicello\nbries\n\n\ntempo\nweer [ook: tijd]\n\n\ncolpo di vento\nwindstoot\n\n\nFa bel tempo.\nHet is mooi weer.\n\n\nghiaccio\nijs\n\n\nnuvola\nwolk\n\n\npioggia\nregen\n\n\ndisgelo\ndooi\n\n\nnube (f)\nwolk\n\n\ncalore (m)\nwarmte, hitte\n\n\nFa maltempo.\nHet is slecht weer.\n\n\nIl tempo è instabile.\nHet weer is instabiel.\n\n\nfreddo\nkou\n\n\nSi (con)gela.\nHet vriest.\n\n\nGrandina.\nHet hagelt.\n\n\ntemporale (m)\nonweer\n\n\nbollettino meteo(rologico)\nweerbericht\n\n\nCom'è il tempo (da te)?\nHoe is het weer (bij jou)?\n\n\nFa freddissimo.\nHet is erg koud.\n\n\nSudo.\nIk zweet.\n\n\ngelo\nvorst, vrieskou\n\n\nC'è il/un temporale.\nHet onweert.\n\n\numidità\nluchtvochtigheid\n\n\nC'è (il) sole.\nDe zon schijnt.\n\n\nfoschia\nnevel\n\n\nsiccità\ndroogte\n\n\nÈ afoso.\nHet is drukkend warm.\n\n\npioviggine (f)\nmotregen\n\n\nÈ piovoso.\nHet is regenachtig.\n\n\nC'è (la) nebbia.\nHet is mistig.\n\n\ntempesta\nstorm\n\n\nC'è (il) vento.\nHet waait.\n\n\nFa caldissimo.\nHet is erg warm.\n\n\nvento\nwind\n\n\nacquazzone (m)\nstortbui, wolkbreuk\n\n\nfresco\nkoelte\n\n\nQuanti gradi ci sono?\nHoeveel graden is het?\n\n\nTira (il) vento.\nHet waait."
+    "text": "Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:wijsma en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd.\n\n\n\n\n\nItaliaans\nNederlands\n\n\n\n\nSta piovendo.\nHet is aan het regenen.\n\n\nPiove.\nHet regent.\n\n\nÈ afoso.\nHet is drukkend warm.\n\n\nHo freddo.\nIk heb het koud.\n\n\nÈ nuvoloso.\nHet is bewolkt.\n\n\nnube (f)\nwolk\n\n\ncalore (m)\nwarmte, hitte\n\n\nCom'è il tempo (da te)?\nHoe is het weer (bij jou)?\n\n\nfresco\nkoelte\n\n\nnuvola\nwolk\n\n\nFa brutto/cattivo tempo.\nHet is slecht weer.\n\n\nfulmine (m)\nbliksem(flits)\n\n\nFa un freddo gelido.\nHet is ijzig / ijskoud.\n\n\nFa caldissimo.\nHet is erg warm.\n\n\nprevisioni del tempo (f-pl)\nweersverwachting\n\n\nGrandina.\nHet hagelt.\n\n\nNevica.\nHet sneeuwt.\n\n\nSta grandinando.\nHet is aan het hagelen.\n\n\nFa freddissimo.\nHet is erg koud.\n\n\narcobaleno\nregenboog\n\n\nvento\nwind\n\n\nprecipitazione\nneerslag\n\n\ntuono\ndonder\n\n\ntemperatura\ntemperatuur\n\n\ntempo\nweer [ook: tijd]\n\n\nmaltempo\nslecht weer, noodweer\n\n\ncaldo\nwarmte, hitte\n\n\nlampo\nbliksemflits\n\n\ndisgelo\ndooi\n\n\nÈ sereno.\nHet is helder (weer).\n\n\nÈ ventoso.\nHet is winderig.\n\n\nC'è (la) nebbia.\nHet is mistig.\n\n\nÈ nebbioso.\nHet is mistig.\n\n\nÈ umido.\nHet is vochtig.\n\n\nnebbia\nmist\n\n\nfreddo\nkou\n\n\nIl tempo è instabile.\nHet weer is instabiel.\n\n\nÈ una bella giornata.\nHet is een mooie dag.\n\n\ngrandine (f)\nhagel\n\n\nÈ tempestoso.\nHet is stormachtig.\n\n\nFa bel tempo.\nHet is mooi weer.\n\n\nghiaccio\nijs\n\n\nC'è la/una tempesta.\nHet stormt.\n\n\nÈ piovoso.\nHet is regenachtig.\n\n\nsiccità\ndroogte\n\n\npioggia\nregen\n\n\nbollettino meteo(rologico)\nweerbericht\n\n\nC'è il/un temporale.\nHet onweert.\n\n\nraffica di vento\nwindstoot\n\n\ncolpo di vento\nwindstoot\n\n\numidità\nluchtvochtigheid\n\n\nneve (f)\nsneeuw\n\n\nSudo.\nIk zweet.\n\n\nFa maltempo.\nHet is slecht weer.\n\n\nL'umidità è alta / bassa.\nDe luchtvochtigheid is hoog/laag.\n\n\nSta nevicando.\nHet is aan het sneeuwen.\n\n\nventicello\nbries\n\n\nTira (il) vento.\nHet waait.\n\n\nacquazzone (m)\nstortbui, wolkbreuk\n\n\nFa (molto) caldo/freddo/fresco.\nHet is (erg) warm / koud / koel.\n\n\ntempesta\nstorm\n\n\nQuanti gradi ci sono?\nHoeveel graden is het?\n\n\nC'è (il) vento.\nHet waait.\n\n\nclima (m)\nklimaat\n\n\nChe tempo fa (da te)?\nHoe is het weer (bij jou)?\n\n\nbrezza\nbries\n\n\nHo caldo.\nIk heb het warm.\n\n\nC'è (il) sole.\nDe zon schijnt.\n\n\nIl tempo è variabile.\nHet weer is wisselvallig.\n\n\nC'è (l')umidità.\nHet is vochtig.\n\n\nÈ soleggiato.\nHet is zonnig.\n\n\nSi (con)gela.\nHet vriest.\n\n\nfoschia\nnevel\n\n\ntemporale (m)\nonweer\n\n\ngelo\nvorst, vrieskou\n\n\npioviggine (f)\nmotregen\n\n\nÈ burrascoso.\nHet is stormachtig."
   },
   {
     "objectID": "post_woorden/tempo/tempo2.html#het-weer",
     "href": "post_woorden/tempo/tempo2.html#het-weer",
     "title": "Tempo atmosferico2",
     "section": "",
-    "text": "Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:wijsma en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd.\n\n\n\n\n\nItaliaans\nNederlands\n\n\n\n\nC'è la/una tempesta.\nHet stormt.\n\n\ncaldo\nwarmte, hitte\n\n\nHo freddo.\nIk heb het koud.\n\n\nneve (f)\nsneeuw\n\n\nÈ nebbioso.\nHet is mistig.\n\n\nclima (m)\nklimaat\n\n\ntuono\ndonder\n\n\nPiove.\nHet regent.\n\n\nSta piovendo.\nHet is aan het regenen.\n\n\nÈ sereno.\nHet is helder (weer).\n\n\nÈ una bella giornata.\nHet is een mooie dag.\n\n\nL'umidità è alta / bassa.\nDe luchtvochtigheid is hoog/laag.\n\n\nprevisioni del tempo (f-pl)\nweersverwachting\n\n\nÈ nuvoloso.\nHet is bewolkt.\n\n\nÈ soleggiato.\nHet is zonnig.\n\n\nFa un freddo gelido.\nHet is ijzig / ijskoud.\n\n\narcobaleno\nregenboog\n\n\nSta nevicando.\nHet is aan het sneeuwen.\n\n\nÈ ventoso.\nHet is winderig.\n\n\nC'è (l')umidità.\nHet is vochtig.\n\n\nFa (molto) caldo/freddo/fresco.\nHet is (erg) warm / koud / koel.\n\n\nprecipitazione\nneerslag\n\n\nÈ umido.\nHet is vochtig.\n\n\nlampo\nbliksemflits\n\n\nFa brutto/cattivo tempo.\nHet is slecht weer.\n\n\nfulmine (m)\nbliksem(flits)\n\n\nÈ burrascoso.\nHet is stormachtig.\n\n\nHo caldo.\nIk heb het warm.\n\n\nraffica di vento\nwindstoot\n\n\ntemperatura\ntemperatuur\n\n\nNevica.\nHet sneeuwt.\n\n\nbrezza\nbries\n\n\nChe tempo fa (da te)?\nHoe is het weer (bij jou)?\n\n\ngrandine (f)\nhagel\n\n\nmaltempo\nslecht weer, noodweer\n\n\nÈ tempestoso.\nHet is stormachtig.\n\n\nSta grandinando.\nHet is aan het hagelen.\n\n\nnebbia\nmist\n\n\nIl tempo è variabile.\nHet weer is wisselvallig.\n\n\nventicello\nbries\n\n\ntempo\nweer [ook: tijd]\n\n\ncolpo di vento\nwindstoot\n\n\nFa bel tempo.\nHet is mooi weer.\n\n\nghiaccio\nijs\n\n\nnuvola\nwolk\n\n\npioggia\nregen\n\n\ndisgelo\ndooi\n\n\nnube (f)\nwolk\n\n\ncalore (m)\nwarmte, hitte\n\n\nFa maltempo.\nHet is slecht weer.\n\n\nIl tempo è instabile.\nHet weer is instabiel.\n\n\nfreddo\nkou\n\n\nSi (con)gela.\nHet vriest.\n\n\nGrandina.\nHet hagelt.\n\n\ntemporale (m)\nonweer\n\n\nbollettino meteo(rologico)\nweerbericht\n\n\nCom'è il tempo (da te)?\nHoe is het weer (bij jou)?\n\n\nFa freddissimo.\nHet is erg koud.\n\n\nSudo.\nIk zweet.\n\n\ngelo\nvorst, vrieskou\n\n\nC'è il/un temporale.\nHet onweert.\n\n\numidità\nluchtvochtigheid\n\n\nC'è (il) sole.\nDe zon schijnt.\n\n\nfoschia\nnevel\n\n\nsiccità\ndroogte\n\n\nÈ afoso.\nHet is drukkend warm.\n\n\npioviggine (f)\nmotregen\n\n\nÈ piovoso.\nHet is regenachtig.\n\n\nC'è (la) nebbia.\nHet is mistig.\n\n\ntempesta\nstorm\n\n\nC'è (il) vento.\nHet waait.\n\n\nFa caldissimo.\nHet is erg warm.\n\n\nvento\nwind\n\n\nacquazzone (m)\nstortbui, wolkbreuk\n\n\nfresco\nkoelte\n\n\nQuanti gradi ci sono?\nHoeveel graden is het?\n\n\nTira (il) vento.\nHet waait."
+    "text": "Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:wijsma en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd.\n\n\n\n\n\nItaliaans\nNederlands\n\n\n\n\nSta piovendo.\nHet is aan het regenen.\n\n\nPiove.\nHet regent.\n\n\nÈ afoso.\nHet is drukkend warm.\n\n\nHo freddo.\nIk heb het koud.\n\n\nÈ nuvoloso.\nHet is bewolkt.\n\n\nnube (f)\nwolk\n\n\ncalore (m)\nwarmte, hitte\n\n\nCom'è il tempo (da te)?\nHoe is het weer (bij jou)?\n\n\nfresco\nkoelte\n\n\nnuvola\nwolk\n\n\nFa brutto/cattivo tempo.\nHet is slecht weer.\n\n\nfulmine (m)\nbliksem(flits)\n\n\nFa un freddo gelido.\nHet is ijzig / ijskoud.\n\n\nFa caldissimo.\nHet is erg warm.\n\n\nprevisioni del tempo (f-pl)\nweersverwachting\n\n\nGrandina.\nHet hagelt.\n\n\nNevica.\nHet sneeuwt.\n\n\nSta grandinando.\nHet is aan het hagelen.\n\n\nFa freddissimo.\nHet is erg koud.\n\n\narcobaleno\nregenboog\n\n\nvento\nwind\n\n\nprecipitazione\nneerslag\n\n\ntuono\ndonder\n\n\ntemperatura\ntemperatuur\n\n\ntempo\nweer [ook: tijd]\n\n\nmaltempo\nslecht weer, noodweer\n\n\ncaldo\nwarmte, hitte\n\n\nlampo\nbliksemflits\n\n\ndisgelo\ndooi\n\n\nÈ sereno.\nHet is helder (weer).\n\n\nÈ ventoso.\nHet is winderig.\n\n\nC'è (la) nebbia.\nHet is mistig.\n\n\nÈ nebbioso.\nHet is mistig.\n\n\nÈ umido.\nHet is vochtig.\n\n\nnebbia\nmist\n\n\nfreddo\nkou\n\n\nIl tempo è instabile.\nHet weer is instabiel.\n\n\nÈ una bella giornata.\nHet is een mooie dag.\n\n\ngrandine (f)\nhagel\n\n\nÈ tempestoso.\nHet is stormachtig.\n\n\nFa bel tempo.\nHet is mooi weer.\n\n\nghiaccio\nijs\n\n\nC'è la/una tempesta.\nHet stormt.\n\n\nÈ piovoso.\nHet is regenachtig.\n\n\nsiccità\ndroogte\n\n\npioggia\nregen\n\n\nbollettino meteo(rologico)\nweerbericht\n\n\nC'è il/un temporale.\nHet onweert.\n\n\nraffica di vento\nwindstoot\n\n\ncolpo di vento\nwindstoot\n\n\numidità\nluchtvochtigheid\n\n\nneve (f)\nsneeuw\n\n\nSudo.\nIk zweet.\n\n\nFa maltempo.\nHet is slecht weer.\n\n\nL'umidità è alta / bassa.\nDe luchtvochtigheid is hoog/laag.\n\n\nSta nevicando.\nHet is aan het sneeuwen.\n\n\nventicello\nbries\n\n\nTira (il) vento.\nHet waait.\n\n\nacquazzone (m)\nstortbui, wolkbreuk\n\n\nFa (molto) caldo/freddo/fresco.\nHet is (erg) warm / koud / koel.\n\n\ntempesta\nstorm\n\n\nQuanti gradi ci sono?\nHoeveel graden is het?\n\n\nC'è (il) vento.\nHet waait.\n\n\nclima (m)\nklimaat\n\n\nChe tempo fa (da te)?\nHoe is het weer (bij jou)?\n\n\nbrezza\nbries\n\n\nHo caldo.\nIk heb het warm.\n\n\nC'è (il) sole.\nDe zon schijnt.\n\n\nIl tempo è variabile.\nHet weer is wisselvallig.\n\n\nC'è (l')umidità.\nHet is vochtig.\n\n\nÈ soleggiato.\nHet is zonnig.\n\n\nSi (con)gela.\nHet vriest.\n\n\nfoschia\nnevel\n\n\ntemporale (m)\nonweer\n\n\ngelo\nvorst, vrieskou\n\n\npioviggine (f)\nmotregen\n\n\nÈ burrascoso.\nHet is stormachtig."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section",
     "href": "post_zinnen/reeks1/reeks1.html#section",
     "title": "Reeks 1",
     "section": "1",
-    "text": "1\n\n\n\n\nHet bijzondere van het gebouw ligt in feite in de aanwezigheid op de top van enkele steeneiken, wat betekende dat de welvaart en het welzijn werden gebracht door de familie Guinigi.\nLa particolarità dell’edificio infatti sta nella presenza sulla sommità di alcuni lecci, che andavano a significare la prosperità e il benessere portati dalla famiglia Guinigi."
+    "text": "1\n\n\n\n\nKrappe arbeidsmarkten suggereren dat de prijzen mogelijk sneller blijven stijgen dan de markten denken.\nI mercati del lavoro tesi suggeriscono che i prezzi potrebbero continuare a salire più velocemente di quanto i mercati pensino."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-1",
     "href": "post_zinnen/reeks1/reeks1.html#section-1",
     "title": "Reeks 1",
     "section": "2",
-    "text": "2\n\n\n\n\nDrie attracties in één: zo zouden we het bezoek aan het elegante Siena Pubblico, een van de meest majestueuze gebouwen voor civiel gebruik in ons land, kunnen samenvatten.\nTre attrazioni in una: potremmo riassumere così la visita all’elegante Palazzo Pubblico senese, uno dei più maestosi edifici ad uso civile della nostra Nazione."
+    "text": "2\n\n\n\n\nHet bijzondere van het gebouw ligt in feite in de aanwezigheid op de top van enkele steeneiken, wat betekende dat de welvaart en het welzijn werden gebracht door de familie Guinigi.\nLa particolarità dell’edificio infatti sta nella presenza sulla sommità di alcuni lecci, che andavano a significare la prosperità e il benessere portati dalla famiglia Guinigi."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-2",
     "href": "post_zinnen/reeks1/reeks1.html#section-2",
     "title": "Reeks 1",
     "section": "3",
-    "text": "3\n\n\n\n\nZullen we morgen langskomen bij Intersport?\nChe ne dici se domani facciamo un salto da Intersport?"
+    "text": "3\n\n\n\n\nOnder het rijk van Augustus brak een periode van achteruitgang aan voor de Valdichiana, de bevolking, als gevolg van het overstromen van de vallei, verhuisde naar veiligere en gezondere heuvelachtige gebieden.\nSotto l’impero di Augusto inizia per la Valdichiana un periodo di decadenza, le popolazioni, a causa dell’impaludamento della valle, si spostano su zone collinari più sicure e salubri."
   },
   {
     "objectID": "post_zinnen/reeks1/reeks1.html#section-3",
     "href": "post_zinnen/reeks1/reeks1.html#section-3",
     "title": "Reeks 1",
     "section": "4",
-    "text": "4\n\n\n\n\nIn hemelsnaam liever dan in een agrotoerisme, maar niet op een camping met de gebruikelijke sociale momenten.\nPer carità, piuttosto allora in un agriturismo, ma non in un campeggio con i soliti momenti sociali."
+    "text": "4\n\n\n\n\nDe Guinigi-toren is een van de belangrijkste torens in Lucca, evenals de enige intact gebleven binnen de muren. Gebouwd in baksteen en steen, werd het gebouwd in opdracht van de Guinigi-familie als een symbool van wedergeboorte.\nLa Torre Guinigi è una delle torri più importanti di Lucca, nonché l’unica rimasta intatta all’interno delle mura. Costruita in mattoni e pietra, venne realizzata per volere della famiglia Guinigi come simbolo di rinascita."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section",
     "href": "post_zinnen/reeks2/reeks2.html#section",
     "title": "Reeks 2",
     "section": "1",
-    "text": "1\n\n\n\n\nMisschien dacht hij dat ik te veel tijd aan de show besteedde.\nForse pensava che io passassi troppo tempo sullo spettacolo."
+    "text": "1\n\n\n\n\nEr zitten te veel mensen aan die tafel.\nCi sono troppe persone a quel tavolo."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section-1",
     "href": "post_zinnen/reeks2/reeks2.html#section-1",
     "title": "Reeks 2",
     "section": "2",
-    "text": "2\n\n\n\n\nIk doe dit werk al te lang.\nFaccio questo lavoro da troppo tempo."
+    "text": "2\n\n\n\n\nHet betekent dat we niet veel tijd hebben.\nSignifica che non abbiamo molto tempo."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section-2",
     "href": "post_zinnen/reeks2/reeks2.html#section-2",
     "title": "Reeks 2",
     "section": "3",
-    "text": "3\n\n\n\n\nJe hebt te veel tijd in de echte wereld doorgebracht.\nHai passato troppo tempo nel mondo reale."
+    "text": "3\n\n\n\n\nHé, ik hoop dat je niet te hongerig bent.\nEhi, spero che non abbiate molta fame."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section-3",
     "href": "post_zinnen/reeks2/reeks2.html#section-3",
     "title": "Reeks 2",
     "section": "4",
-    "text": "4\n\n\n\n\nBeter vind je niet in zo’n korte tijd.\nNon troverai di meglio in così poco tempo."
+    "text": "4\n\n\n\n\nZe is het eerste meisje met wie ik sinds lange tijd uitga.\nÈ la prima ragazza che frequento dopo molto tempo."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section-4",
     "href": "post_zinnen/reeks2/reeks2.html#section-4",
     "title": "Reeks 2",
     "section": "5",
-    "text": "5\n\n\n\n\nEr zijn hier veel boeken en tijdschriften.\nQui ci sono molti libri e riviste."
+    "text": "5\n\n\n\n\nIk heb lang in de kazerne gewerkt.\nHo lavorato in caserma molto tempo."
   },
   {
     "objectID": "post_zinnen/reeks2/reeks2.html#section-5",
     "href": "post_zinnen/reeks2/reeks2.html#section-5",
     "title": "Reeks 2",
     "section": "6",
-    "text": "6\n\n\n\n\nHij heeft vele boeken gepubliceerd en talloze internationale prijzen gewonnen.\nHa pubblicato molti libri e vinto numerosi premi internazionali.\nterug naar hoofdpagina"
+    "text": "6\n\n\n\n\nToen duurde het niet lang… er waren te veel mensen.\nPoi non c’è voluto tanto… c’erano troppe persone.\nterug naar hoofdpagina"
   },
   {
     "objectID": "woorden.html",
@@ -537,5 +628,12 @@
     "title": "Zinnen oefenen",
     "section": "",
     "text": "Deze pagina (in opbouw) bevat een aantal oefeningen /presentaties om te leren vertalen. Elke keer als je de ENTER - toets induwt verschijnt eerst een zin in het Nederlands, vervolgens de italiaanse vertaling.\nJe kan de presentatie downloaden.\nWekelijks wordt de inhoud aangepast met andere zinnen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReeks 1\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReeks 2\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "post_cursus/cursustekst.html#passato-prossimo",
+    "href": "post_cursus/cursustekst.html#passato-prossimo",
+    "title": "Cursus Italiaans",
+    "section": "",
+    "text": "De passato prossimo wordt gebruikt om te vertellen over handelingen in het verleden. Hij heeft betrekking op afgesloten gebeurtenissen uit het verleden. Hij wordt gevormd door een hulpwerkwoord (avere of essere) gevolgd door het voltooid deelwoord.\nBij gebruik van avere wordt het voltooid deelwoord niet vervoegd. Bij gebruik van essere wordt het voltooid deelwoord vervoegd naar geslacht en aantal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVoorbeeldzinnen passato prossimo\n\n\nitaliaans\nnederlands\n\n\n\n\nÈ morto per qualcosa che ha mangiato.\nHij stierf aan iets dat hij at.\n\n\nMaria ha prenotato una camera.\nMaria heeft een kamer geboekt.\n\n\nHanno visto un film di Fellini\nZe hebben een Fellini-film gezien\n\n\nil prezzo della frutta è ribassato di oltre il 20%\nde prijs van fruit wordt met meer dan 20% verlaagd\n\n\nL’estate scorsa ho visitato Napoli.\nAfgelopen zomer bezocht ik Napels.\n\n\nMarco ha mangiato la mela\nMarco at de appel op\n\n\nIeri abbiamo mangiato la lasagna. \nGisteren aten we lasagne.\n\n\nPer un attimo ho creduto saremmo morti.\nEven dacht ik dat we dood gingen.\n\n\nIeri sono andato al lavoro in bicicletta.\nGisteren fietste ik naar mijn werk.\n\n\nStamattina mi sono svegliata alle sette.\nVanmorgen werd ik om zeven uur wakker.\n\n\nHo mangiato una pizza.\nIk heb een pizza gegeten.\n\n\nil supermercato qui vicino ha ribassato i prezzi\nde nabijgelegen supermarkt heeft zijn prijzen verlaagd\n\n\nDevi vedere il panino che ha mangiato ieri.\nJe moet de boterham zien die hij gisteren at.\n\n\nNon gli ho creduto su nulla.\nIk geloofde hem nergens over.\n\n\nPoi nel pomeriggio siamo partiti per gli Stati Uniti.\nToen vertrokken we in de middag naar de Verenigde Staten.\n\n\n\n\n\n\n\n\n\n\nMeerdere werkwoorden hebben een onregelmatig deelwoord. De belangrijkste zijn:\n\n\n\nOnregelmatige deelwoorden\n\n\nItaliaans\nDeelwoord\n\n\n\n\nspegnere\nspento\n\n\nvenire\nvenuto\n\n\ndire\ndetto\n\n\ndiscutere\ndiscusso\n\n\nperdere\nperso\n\n\ndecidere\ndeciso\n\n\nrimanere\nrimasto\n\n\nvivere\nvissuto\n\n\nchiedere\nchiesto\n\n\ndividere\ndiviso\n\n\nnascere\nnato\n\n\nfare\nfatto\n\n\nscegliere\nscelto\n\n\nbere\nbevuto\n\n\nsoffrire\nsofferto\n\n\noffendere\noffeso\n\n\nscendere\nsceso\n\n\naccendere\nacceso\n\n\nmettere\nmesso\n\n\nleggere\nletto\n\n\nstare\nstato\n\n\nridere\nriso\n\n\npiangere\npianto\n\n\ntradurre\ntradotto\n\n\ncuocere\ncotto\n\n\nscrivere\nscritto\n\n\nvincere\nvinto\n\n\nrispondere\nrisposto\n\n\nvedere\nvisto\n\n\nchiudere\nchiuso\n\n\nmorire\nmorto\n\n\ncorrere\ncorso\n\n\nrompere\nrotto\n\n\naprire\naperto\n\n\nprendere\npreso"
   }
 ]

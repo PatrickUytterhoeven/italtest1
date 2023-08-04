@@ -15,7 +15,7 @@ editor: visual
 
 ## Het weer
 
-Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:[wijsma](https://italiaans.andrieswijma.nl/) en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd. 
+Woorden met betrekking tot het weer. Ik heb de woorden ontleend aan volgende website:[wijsma](https://italiaans.andrieswijma.nl/) en vul deze verdere aan. De volgorde van de woorden wordt wekelijks veranderd.
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 rm(list = ls())

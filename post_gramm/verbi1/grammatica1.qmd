@@ -26,6 +26,7 @@ require(lubridate)
 require(tidyquant)
 require(formattable)
 require(kableExtra)
+require(DT)
 
 
 options(scipen=999)
@@ -59,6 +60,16 @@ kable(deel1, booktabs=T) %>%
 kable(deel2, booktabs=T) %>%
   kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
 ```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+tabel1<-datatable(deel2,caption='a - vervoeging',filter='top',extensions = 'Buttons', options = list(
+   dom = 'Bfrtip',
+   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'))
+)
+tabel1
+
+```
+
 
 ## e - vervoeging
 

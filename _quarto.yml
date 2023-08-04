@@ -9,12 +9,11 @@ website:
       - grammatica.qmd
       - zinnen.qmd
       - woorden.qmd
+      - cursus.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/PatrickUytterhoeven/italtest1/
 format:
   html:
     theme: flatly
-    css: styles.css
-
+    css: mystyles1.css
 editor: visual
-

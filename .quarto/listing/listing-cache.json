@@ -3,6 +3,9 @@
     "blog.qmd": [
       "posts"
     ],
+    "cursus.qmd": [
+      "post_cursus"
+    ],
     "grammatica.qmd": [
       "post_gramm"
     ],

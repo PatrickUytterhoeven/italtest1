@@ -1,0 +1,78 @@
+---
+title: "Passato Prossimo"
+author: "Patrick Uytterhoeven"
+date: "2023-08-04"
+categories: [werkwoorden]
+image: IMG_2182beeld.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+## Gebruik
+
+De passato prossimo wordt gebruikt om te vertellen over handelingen in het verleden. Hij heeft betrekking op afgesloten gebeurtenissen uit het verleden. Hij wordt gevormd door een hulpwerkwoord (avere of essere) gevolgd door het voltooid deelwoord.
+
+Bij gebruik van avere wordt het voltooid deelwoord niet vervoegd. Bij gebruik van essere wordt het voltooid deelwoord vervoegd naar geslacht en aantal
+
+## Hulpwerkwoord avere
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('pp1.png')
+```
+
+## Hulpwerkwoord essere
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics('pp2.png')
+```
+
+## Voorbeeldzinnen
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+pp2<-read_xlsx("passatoprossimo.xlsx",2)
+set.seed(34)
+pp2seed<-data.frame(pp2[sample(nrow(pp2), ), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(pp2seed, caption = "Voorbeeldzinnen passato prossimo ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+```
+
+## Onregelmatig voltooid deelwoord
+
+Meerdere werkwoorden hebben een onregelmatig deelwoord. De belangrijkste zijn:
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+pp3<-read_xlsx("passatoprossimo.xlsx",3)
+set.seed(34)
+pp3seed<-data.frame(pp3[sample(nrow(pp3), ), ])
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(pp3seed, caption = "Onregelmatige deelwoorden ") %>%
+  kable_styling(bootstrap_options = c("striped","condensed"))%>%kable_paper("hover", full_width = F)
+```

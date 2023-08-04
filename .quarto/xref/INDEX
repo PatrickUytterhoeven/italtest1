@@ -1,6 +1,8 @@
 {
   "index.qmd": {
-    "index.html": "0a0fcbb0"
+    "index.html": "0a0fcbb0",
+    "index.tex": "6634bc0d",
+    "index.epub": "887f7ac8"
   },
   "about.qmd": {
     "about.html": "c1db9dfb"
@@ -106,5 +108,14 @@
   },
   "post_woorden/tempo/tempo2.qmd": {
     "tempo2.html": "e15cf02c"
+  },
+  "cursus.qmd": {
+    "cursus.html": "7da349d5"
+  },
+  "post_cursus/cursustekst.qmd": {
+    "cursustekst.html": "07ee25c8"
+  },
+  "post_gramm/passato_prossimo/passatoprossimo.qmd": {
+    "passatoprossimo.html": "8e01d1a1"
   }
 }
