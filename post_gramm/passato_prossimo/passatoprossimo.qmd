@@ -1,15 +1,14 @@
 ---
 title: "Passato Prossimo"
-author: "Patrick Uytterhoeven"
-date: "2023-08-04"
-categories: [werkwoorden]
-image: IMG_2182beeld.JPG
+subtitle: ""
 format:
   html:
+    self-contained: true
+    code-background: true
     toc: true
     toc-depth: 3
     toc-title: Inhoud
-    number-sections: false
+    number-sections: true
 editor: visual
 ---
 

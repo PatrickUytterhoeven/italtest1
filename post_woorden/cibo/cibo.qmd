@@ -185,9 +185,6 @@ choice1<-data.frame(vocab1[sample(nrow(vocab1), 1), ])
 
 -   `r I(choice1[,2])`
 -   `r I(choice1[,1])`
-
-
-
 :::
 :::
 :::

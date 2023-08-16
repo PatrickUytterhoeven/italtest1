@@ -1,0 +1,42 @@
+---
+title: "L'attività vulcanica dell'Etna"
+author: ""
+date: "2023-08-16"
+categories: [klimaat, Italië]
+image: IMG_3024_bonnard.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+resources: 
+ - "*.mp3"
+ - pdf
+---
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+html_tag_audio <- function(file, type = c("wav")) {
+  type <- match.arg(type)
+  htmltools::tags$audio(
+    controls = "",
+    htmltools::tags$source(
+      src = file,
+      type = glue::glue("audio/{type}", type = type)
+    )
+  )
+}
+```
+
+[Rookwolken, die de vorm aannemen van ringen, en een paar weken later de uitbarsting en fonteinen van lava. De civiele bescherming heeft de gemeenten die zich het dichtst bij de hoogste actieve vulkaan van Europa bevinden in een staat van vroegtijdige waarschuwing gebracht. Etna was enkele maanden in een staat van relatieve rust gebleven, zonder enige uitbarstingsactiviteit.Gecontroleerde parameters toonden geen veranderingen die wijzen op een naderend ontwaken. De Etna is de afgelopen decennia geleidelijk veranderd en aanzienlijk explosiever geworden. Deze dingen gebeuren in een actief vulkanisch systeem.De lavafonteinen verlichtten de nacht. Tussen 2.30 en 4.30 uur waren er op de zuidoostelijke krater minstens 5-6 luchtopeningen actief, van de oostelijke tot de zuidwestelijke flank: een schouwspel van de natuur en haar kracht.De asneerslag veroorzaakte operationele problemen voor de luchthaven, die dit keer een duidelijke reden had om de luchthaven te sluiten. Na 6 uur begon de activiteit sterk af te nemen, maar een dichte aswolk werd gedurende enkele uren aangevoerd]{.aside}
+
+Sbuffi di fumo, che prendono la forma di anelli, e, qualche settimana dopo, l'eruzione e le fontane di lava. La Protezione civile ha messo in stato di preallerta i Comuni più vicini al vulcano attivo più alto d'Europa. l'Etna era rimasto per alcuni mesi in uno stato di relativa quiete, in assenza di qualsiasi attività eruttiva.
+
+I parametri monitorati non mostravano variazioni indicative di un imminente risveglio. L'Etna è cambiata progressivamente nel corso di questi ultimi decenni, ed è diventata notevolmente più esplosiva. Sono cose che succedono in un sistema vulcanico attivo.
+
+Le fontane di lava hanno illuminato la notte. Tra le ore 2:30 e le 4:30 sul Cratere di Sud-Est erano attive almeno 5-6 bocche, dal fianco orientale a quello sud-occidentale: uno spettacola della natura e della sua forza.
+
+Le ricadute di cenere hanno causato problemi di operatività dell'aeroporto, che questa volta ha avuto una ragione trasparente per chiudere lo scalo. Dopo le 6, l'attività ha cominciato a diminuire fortemente, ma per diverse ore è stata alimentata una densa nube di cenere.
+
+`r html_tag_audio("etna.mp3", type = "wav")`

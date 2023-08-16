@@ -12,6 +12,7 @@ website:
       - cursus.qmd
       - icon: github
         href: https://github.com/PatrickUytterhoeven/italtest1/
+  page-navigation: true
 format:
   html:
     theme: flatly

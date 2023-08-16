@@ -1,0 +1,43 @@
+---
+title: "Problemi di traffico"
+date: "2023-08-16"
+categories: [verkeer, Italië]
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+image: IMG_2146_4.JPG
+resources: 
+ - "*.mp3"
+ - pdf
+---
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+html_tag_audio <- function(file, type = c("wav")) {
+  type <- match.arg(type)
+  htmltools::tags$audio(
+    controls = "",
+    htmltools::tags$source(
+      src = file,
+      type = glue::glue("audio/{type}", type = type)
+    )
+  )
+}
+```
+
+
+[Het laatste weekend van juli, het eerste met een rode stip, registreerde een intens verkeer, maar zonder bijzonder ongemak, afgezien van de files die zich 's avonds vormden in de buurt van de grote centra.In de namiddag waren er echter ernstige storingen in het treinverkeer langs de hogesnelheidslijn.Op de wegen werden de grootste verkeersstromen geregistreerd in zuidelijke richting, langs de hoofdroutes richting de vakantieoorden over de bergruggen en vooral op de A2 waar de sensoren bij Salerno meer dan 3500 voertuigen per uur registreerden.Bij de inscheping naar Sicilië duurden de wachttijden voor de veerboten niet langer dan 60 minuten. In het noorden liep het verkeer vast bij internationale grensovergangen richting Slovenië en Kroatië. De grootste ongemakken houden verband met het slechte weer dat sommige noordelijke regio's teisterde.]{.aside}
+
+L'ultimo weekend di luglio, il primo da bollino rosso, ha fatto registrate un traffico intenso ma senza particolari disagi a parte le code che si sono formate in serata in prossimità dei grandi centri
+
+Nel pomeriggio ci sono stati invece gravi disagi nella circolazione ferroviaria lungo la linea dell'Alta velocità.
+
+Sulle strade i maggiori flussi di traffico si sono registrati in direzione Sud, lungo le principali direttrici verso le località di villeggiatura ovvero le dorsali e soprattutto sull'A2 dove i sensori all'altezza di Salerno hanno rilevato oltre 3500 veicoli l'ora.
+
+Agli imbarchi per la Sicilia, le attese per i traghetti non hanno superato i 60 minuti. Al Nord il traffico e' stato sostenuto ai valichi internazionali di confine in direzione di Slovenia e Croazia. I disagi maggiori sono legati al maltempo che ha investito alcune regioni settentrionali.
+
+`r html_tag_audio("problemi.mp3", type = "wav")`

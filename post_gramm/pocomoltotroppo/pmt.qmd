@@ -29,7 +29,6 @@ require(kableExtra)
 options(scipen=999)
 ```
 
-
 # Molto, poco, troppo
 
 Molto, poco, troppo kunnen bijwoorden of bijvoeglijke naamwoorden zijn. Als ze bijvoeglijke naamwoorden zijn verandert het geslacht. Als bijwoord blijven ze onveranderd.
@@ -42,8 +41,7 @@ knitr::include_graphics('pmt.png')
 
 # Voorbeeldzinnen
 
-
-Hieronder staan diverse voorbeeldzinnen met molto, poco, troppo.  Je kan deze inoefenen bij de rubriek *zinnen oefenen*.
+Hieronder staan diverse voorbeeldzinnen met molto, poco, troppo. Je kan deze inoefenen bij de rubriek *zinnen oefenen*.
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 data1<-read_xlsx("pmt1.xlsx",1)
@@ -51,5 +49,7 @@ data1<-read_xlsx("pmt1.xlsx",1)
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 kable(data1, booktabs=T) %>%
-  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)%>%
+column_spec(1, width = "30em", background = "#9a4f66",color="white",bold=T)%>%
+column_spec(2, width = "30em", background = "darkblue",color="white",bold=T)
 ```
