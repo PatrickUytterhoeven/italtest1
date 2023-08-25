@@ -3,6 +3,13 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-PK9PL7WYN7"
+    anonymize-ip: true
   title: "Italiaans studeren"
   navbar:
     left:
