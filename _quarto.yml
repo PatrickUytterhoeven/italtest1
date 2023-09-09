@@ -6,7 +6,7 @@ website:
   cookie-consent:
     type: express
     style: headline
-    palette: dark
+    palette: light
   google-analytics:
     tracking-id: "G-PK9PL7WYN7"
     anonymize-ip: true
