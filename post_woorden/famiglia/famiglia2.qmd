@@ -1,0 +1,56 @@
+---
+title: "Famiglia"
+author: "Patrick Uytterhoeven"
+date: "2023-09-18"
+categories: [woordenschat, familie]
+image: IMG_2928bonnard.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+## Familie
+
+Woorden met betrekking tot familie en personen. Ik heb de woorden ontleend aan volgende website:[wijsma](https://italiaans.andrieswijma.nl/) en vul deze verdere aan.
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab1<-read_xlsx("famiglia1.xlsx",1)
+```
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(vocab1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+vocab2 <- vocab1[sample(nrow(vocab1)),]
+```
+
+
+Hieronder staan dezelfde woorden als in de vorige tabel. De volgorde is door elkaar gehaald. Dit gebeurt wekelijks opnieuw, zodat je de woorden kan oefenen in een andere volgorde.
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(vocab2, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```
