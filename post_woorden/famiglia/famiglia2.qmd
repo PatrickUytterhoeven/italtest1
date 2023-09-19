@@ -3,7 +3,7 @@ title: "Famiglia"
 author: "Patrick Uytterhoeven"
 date: "2023-09-18"
 categories: [woordenschat, familie]
-#image: IMG_2928bonnard.JPG
+image: IMG_2928bonnard.JPG
 format:
   html:
     toc: true
