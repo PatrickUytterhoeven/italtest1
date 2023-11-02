@@ -1,0 +1,49 @@
+---
+title: "Essere Stare"
+author: "Patrick Uytterhoeven"
+date: "2023-09-18"
+categories: [grammatica, werkwoorden, essere]
+image: IMG_2918lomo.JPG
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: Inhoud
+    number-sections: false
+editor: visual
+---
+
+## Gebruik
+
+**Stare:**
+
+om een tijdelijke en voorbijgaande toestand uit te drukken (fysisch of psychisch)
+
+**Essere:**
+
+om een blijvende toestand uit te drukken (identiteit - job - nationaliteit - herkomst)
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+rm(list = ls())
+
+
+require(tidyverse)
+require(writexl)
+require(readxl)
+require(lubridate)
+require(tidyquant)
+require(formattable)
+require(kableExtra)
+
+
+options(scipen=999)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+zin1<-read_xlsx("essere_stare.xlsx",1)
+```
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+kable(zin1, booktabs=T) %>%
+  kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
+```

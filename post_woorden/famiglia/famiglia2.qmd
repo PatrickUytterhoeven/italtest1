@@ -37,7 +37,6 @@ options(scipen=999)
 vocab1<-read_xlsx("famiglia1.xlsx",1)
 ```
 
-
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 kable(vocab1, booktabs=T) %>%
   kable_classic(full_width = F)%>%kable_paper("hover", full_width = F)
@@ -46,7 +45,6 @@ kable(vocab1, booktabs=T) %>%
 ```{r, echo=FALSE, warning=FALSE,message=FALSE}
 vocab2 <- vocab1[sample(nrow(vocab1)),]
 ```
-
 
 Hieronder staan dezelfde woorden als in de vorige tabel. De volgorde is door elkaar gehaald. Dit gebeurt wekelijks opnieuw, zodat je de woorden kan oefenen in een andere volgorde.
 
